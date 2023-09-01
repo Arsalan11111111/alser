@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+       <data>
+              <menuitem id='menu_padre_clientes' name='Clientes'/>
+
+              <menuitem id='menu_hijo_clientes' name="Clientes"
+                     action='account.menu_account_customer'
+                     parent='menu_padre_clientes'/>
+
+
+              <menuitem id='menu_padre_proveedores' name='Proveedores'/>
+
+              <menuitem id='menu_hijo_proveedores' name="Proveedores"
+                     action='account.menu_finance_payables'
+                     parent='menu_padre_proveedores'/>
+
+
+              <menuitem id='menu_padre_articulos' name='Artículos'/>
+
+              <menuitem id='menu_hijo_articulos' name="Productos"
+                     action='sale.product_menu_catalog'
+                     parent='menu_padre_articulos'/>
+
+
+
+       </data>
+</odoo>
