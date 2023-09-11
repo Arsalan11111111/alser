@@ -1,0 +1,402 @@
+
+<html>
+<head>
+      <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+      <style>
+      body {
+            font-family: 'Roboto', sans-serif;
+      }
+      h1 {
+            padding: 20px 0;
+            width: 100%;
+            text-align: center;
+            background-color: #875A7B;
+            color: white;
+      }
+      h2 {
+            color: #875A7B;
+      }
+      </style>
+</head>
+<body>
+      <h1> Odoo upgrade report</h1>
+      <p>Here is the report generated during your database upgrade.</p>
+      <p>Please, read it <strong>carefully</strong>.</p>
+      <h2> Upgrade report: 15.0 </h2>
+    <h3>Discuss</h3>
+    <ul>
+          <li>
+        <p><strong>PLEASE NOTE:</strong></p>
+        <p>
+            Mass mailing channels are no longer displayed in the Discuss app
+            by default starting from Odoo 15.0. <br>
+            They become mail groups and are moved to <a href="http://localhost:8069/groups">http://localhost:8069/groups</a>, where you can
+            subscribe and follow discussions. <br>
+            If you prefer to keep a channel in the Discuss app after the upgrade, go to the channel
+            settings and uncheck the "send messages by email" option.
+        </p>
+        </li>
+    </ul>
+    <h3>Fields renamed</h3>
+    <ul>
+          <li>
+<details>
+  <summary>
+    Models <kbd>calendar.event</kbd>: the field <kbd>mo</kbd> has been renamed to <kbd>mon</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=907">Mark as Done</a></li></ul>
+</details>
+            </li>
+          <li>
+<details>
+  <summary>
+    Models <kbd>calendar.recurrence</kbd>: the field <kbd>mo</kbd> has been renamed to <kbd>mon</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=907">Mark as Done</a></li></ul>
+</details>
+            </li>
+    </ul>
+    <h3>Accounting</h3>
+    <ul>
+          <li>Some journals were using the same short codes. Since this is not allowed anymore, a unique short code has been computed for them. The sequences of their entries stay unchanged, you can change them manually if you wish to.</li>
+    </ul>
+    <h3>Removed Models</h3>
+    <ul>
+          <li>The model stock.inventory.line (Inventory Line) has been removed. The linked records (crons, mail templates, automated actions...) have also been removed (standard) or linked to the '_unknown' model (custom).</li>
+    </ul>
+    <h3>Stock</h3>
+    <ul>
+          <li>All the inventory users have now access to stock.quant editing</li>
+    </ul>
+    <h3>Disabled views</h3>
+    <ul>
+        <div>
+          The below custom views have been disabled during the migration because they were no longer valid.
+            <li>
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1253">Odoo Studio: res.partner.form customization</a>
+            </li>
+            <li>
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1694">Odoo Studio: account.move.form customization</a>
+            </li>
+            <li>
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1621">Odoo Studio: product.template.product.tree customization</a>
+            </li>
+            <li>
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1376">Odoo Studio: sale.order.form customization</a>
+            </li>
+        </div>
+    </ul>
+    <h3>Jinja upgrade</h3>
+    <ul>
+          <li>
+                    <details>
+                        <summary>
+                            Some of the fields of the table mail_template does not render the same value before and after
+                            being converted.
+                            The mail.template are:
+                        </summary>
+                        <ul><li>id: 8, name: Invoice: Send by email, fields: <ul><li>email_from</li>
+<li>body_html</li></ul></li>
+<li>id: 33, name: Comprobación datos modelo 347, fields: <ul><li>subject</li>
+<li>body_html</li></ul></li>
+<li>id: 10, name: Sales Order: Send by email, fields: <ul><li>body_html</li></ul></li>
+<li>id: 38, name: SOLICITUD DE DATOS PARA FACTURA ELECTRÓNICA, fields: <ul><li>body_html</li></ul></li>
+<li>id: 3, name: Auth Signup: Odoo Connection, fields: <ul><li>email_to</li>
+<li>lang</li>
+<li>body_html</li></ul></li>
+<li>id: 2, name: Auth Signup: Reset Password, fields: <ul><li>email_to</li>
+<li>lang</li>
+<li>body_html</li></ul></li></ul>
+                    </details>
+                </li>
+          <li>
+                    <details>
+                        <summary>
+                            Some of the records for the table sms_template could not be tested because there is no
+                            record in the database.
+                            The sms_template records are:
+                        </summary>
+                        <ul><li>id: "2", name: "Calendar Event: Reminder" </li></ul>
+                    </details>
+                </li>
+          <li>
+                    <details>
+                        <summary>
+                            Some of the fields of the table sms_template does not render the same value before and after
+                            being converted.
+                            The mail.template are:
+                        </summary>
+                        <ul><li>id: 2, name: Calendar Event: Reminder, fields: <ul><li>body</li></ul></li></ul>
+                    </details>
+                </li>
+    </ul><br/><h2> Upgrade report: 14.0 </h2>
+  
+    <h3>Fields renamed</h3>
+    <ul>
+      
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>google.service</kbd>: the field <kbd>id</kbd> has been renamed to <kbd>id_</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=52">Failed to install demo data for some modules, demo disabled</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>account.move</kbd>: the field <kbd>type</kbd> has been renamed to <kbd>move_type</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=10">Config: Run Remaining Action Todo</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=52">Failed to install demo data for some modules, demo disabled</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=869">Generate Pricelist</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=870">Generate Pricelist</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>account.invoice.report</kbd>: the field <kbd>type</kbd> has been renamed to <kbd>move_type</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=10">Config: Run Remaining Action Todo</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=52">Failed to install demo data for some modules, demo disabled</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=869">Generate Pricelist</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=870">Generate Pricelist</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>account.invoice.report</kbd>: the field <kbd>type</kbd> has been renamed to <kbd>move_type</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=10">Config: Run Remaining Action Todo</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=52">Failed to install demo data for some modules, demo disabled</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=869">Generate Pricelist</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=870">Generate Pricelist</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>account.move</kbd>: the field <kbd>type</kbd> has been renamed to <kbd>move_type</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=10">Config: Run Remaining Action Todo</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=52">Failed to install demo data for some modules, demo disabled</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=869">Generate Pricelist</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=870">Generate Pricelist</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>account.bank.statement.line</kbd>: the field <kbd>name</kbd> has been renamed to <kbd>payment_ref</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=869">Generate Pricelist</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=870">Generate Pricelist</a></li></ul>
+</details>
+            </li>
+        
+          <li>
+<details>
+  <summary>
+    Models <kbd>quality.point</kbd>: the field <kbd>product_id</kbd> has been renamed to <kbd>product_ids</kbd>. The following server actions may need update.
+  </summary>
+  <ul><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=688">Trasladar descripcion corta al producto</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=686">Trasladar descripcion corta al producto</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=687">Trasladar descripcion corta al producto</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=689">Trasladar descripción corta la línea del pedido de venta</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=759">Actualizar url Woo_commerce</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=718">Trasladar descripción corta la línea del pedido de venta</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=758">Trasladar descripcion corta al producto</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=757">Trasladar descripcion corta al producto</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=760">Actualizar URL WooCommerce</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=761">Actualizar URL WooCommerce</a></li><li><a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.actions.server&amp;action=&amp;id=894">Correct inconsistencies for reservation</a></li></ul>
+</details>
+            </li>
+        
+      
+    </ul>
+  
+    <h3>Accounting</h3>
+    <ul>
+      
+        
+          <li>
+        <p><strong>IMPORTANT NOTICE</strong></p>
+        <p>
+            The numbering of journal entries &amp; invoices changed in Odoo 14;
+            sequences are replaced by a more robust approach, to prevent mistakes
+            (e.g. 2020/12/0003 for an invoice posted in *September*, or  2020/00003 for a document in fiscal year 2019).
+        </p>
+        <p>
+            If you had wrong journal entries,
+            you might face <a href="https://i.imgur.com/7wQW1vT.png" target="_blank">blocking messages like this</a>
+            when validating a document.
+            To fix such issues, you can either correct the number of the last journal entry for the month / year, or
+            assign a number manually on a draft document before posting it.
+            To do so, use the "Renumbering" action available from the *list* of journal entries.
+            Once you fix the latest entry, all future entries will be correct.
+        </p>
+        </li>
+        
+          <li>
+        <p><strong>IMPORTANT NOTICE</strong></p>
+        <p>
+            Payments have been heavily refactored in Odoo 14.0.
+            To make sure the upgrade of your payments is done correctly,
+            you should ensure a few things.
+        </p>
+        <p>
+            Before upgrading:
+            </p><ul>
+                <li>
+                    Check that the lock dates for all companies are correctly set;
+                    the more recent the lock date, the better.
+                </li>
+                <li>
+                    Check if the default accounts on the bank/cash journal is of type liquidity (bank/cash):
+                <ul>
+                    <li>In case they are, new outstanding payment accounts will be created during the migration.</li>
+                    <li>In case they are current asset accounts, no new account will be created.</li>
+                </ul>
+                </li>
+                <li>
+                    Make sure all accounting entries have a consistant number regarding the fiscal year they belong to.
+                    (e.g. a journal entry dated of 2019 shouldn’t have a name xx/2020/xx/xxxx)
+                </li>
+            </ul>
+        
+        <p>
+            After upgrading:
+            </p><ul>
+                <li>
+                    Check the outstanding payment accounts are correctly created.
+                    You will have to change the code/name to fit your own chart of accounts.
+                </li>
+            </ul>
+        <ul>
+            <li>
+                Check that pre-recorded payments
+                (recorded before migration, using the "register payment" button on invoices)
+                in the not-locked periods can correctly be reconciled (after migration) with an incoming statement.
+            </li>
+        </ul>
+        
+        <p>
+            We highly encourage you to watch <a href="https://youtu.be/ZOxsB7F6omY" target="_blank">this video</a>
+            explaining the differences between Odoo 13.0 and Odoo 14.0 when registering payments. You will need to decide
+            which workflow you want to use. By default the upgrade will assume that your workflow is to reconcile all
+            payments on invoices with bank transactions. Invoices will be marked "in payment" when a payment is registered
+            and will only be marked as "paid" after reconciling with a bank transaction. If reconciling bank transactions
+            is not part of your workflow, you should change the outstanding account for incoming and / or outgoing payments
+            on the relevant bank journal to the bank account of that journal. If this is done, payments registered on
+            invoices result in them being marked as "paid" right away, and it will no longer be possible to reconcile a bank
+            transaction with them.
+        </p>
+    </li>
+        
+          <li>Following a refactoring in how the payments (bank statements) work in the accounting of Odoo 14.0, the lock date, defining a date limit before which the accounts must be left untouched, has to be set on your companies for the upgrade. Without it, the upgrade could change your accounting for periods you consider as closed/locked. As the lock date was not set on your company(ies) ALSER ESPORT S.L. (or they were very old), it has been set automatically to 2022-01-26. If you do not agree with this lock date, please set your lock date on your company(ies) before upgrading your database.</li>
+        
+          <li>The following payments have been deleted during the migration because there were posted but no longerlinked to any journal entry: [2390, 3151, 3070]</li>
+        
+      
+    </ul>
+  
+    <h3>Non-standard fields</h3>
+    <ul>
+      
+        
+          <li>The field 'move_type' from the model 'account.move' is now a standard Odoo field, but it already existed in the database (coming from a non-standard module) and thus has been renamed to 'move_type_custom'</li>
+        
+      
+    </ul>
+  
+    <h3>Inventory</h3>
+    <ul>
+      
+        
+          <li>
+            <details>
+              <summary>
+                The following product templates quantities will be updated because we now include
+                the quantities of their archived variants
+              </summary>
+              <ul><li>ARO RÍTMICA</li><li>BANDA ELÁSTICA TRAINING</li><li>BODY TUBE</li><li>LOSETAS PARA SUELO</li><li>MARTILLO ATLETÍSMO ESCOLAR</li><li>PELOTA FOAM PIEL RECUBIERTA GRABADA 190 MM	NUEVO	0864</li><li>PELOTA LISA ALSER</li><li>PELOTA POLIVALENTE</li><li>PETO REJADO CERRADO</li></ul>
+            </details>
+        </li>
+        
+      
+    </ul>
+  
+    <h3>Disabled views</h3>
+    <ul>
+      
+        
+        
+        
+        <div>
+          The below custom views have been disabled during the migration because they were no longer valid.
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1622">Odoo Studio: sale.order.tree customization</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1753">account_payment_partner.view_move_form</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=2091">account.payment.order.graph</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=2092">account.payment.order.pivot</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=2089">account.payment.order.tree</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1984">mis.budget.by.account.item.tree (in mis_builder_budget)</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1737">res.company.form.city</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1859">Odoo Studio: sale.order.tree customization</a>
+              
+            </li>
+          
+            
+            <li>
+              
+              
+                  <a target="_blank" href="web?debug=1#view_type=form&amp;model=ir.ui.view&amp;action=28&amp;id=1620">Odoo Studio: product.product.form customization</a>
+              
+            </li>
+          
+        </div>
+      
+    </ul>
+  
+
+</body>
+</html>
