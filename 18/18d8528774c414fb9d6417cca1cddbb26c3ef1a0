@@ -1,0 +1,1059 @@
+%PDF-1.4
+
+1 0 obj
+<<
+/Type /Pages
+/Count 0
+/Kids [ ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (Odoo)
+/Creator (Odoo)
+>>
+endobj
+3 0 obj
+<<
+/Type /EmbeddedFile
+/Params <<
+/CheckSum (fe1f6713ebe301cb6ea2425770c26015)
+/ModDate (D\07220230211173856\05300\04700\047)
+/Size 32165
+>>
+/Subtype /text#2Fxml
+/Length 32165
+>>
+stream
+<?xml version='1.0' encoding='UTF-8'?><rsm:CrossIndustryInvoice xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100">
+                <rsm:ExchangedDocumentContext>
+                    <ram:GuidelineSpecifiedDocumentContextParameter>
+                        <ram:ID>urn:cen.eu:en16931:2017</ram:ID>
+                    </ram:GuidelineSpecifiedDocumentContextParameter>
+                </rsm:ExchangedDocumentContext>
+                <rsm:ExchangedDocument>
+                    <ram:ID>INV/2023/0049</ram:ID>
+                    <ram:TypeCode>380</ram:TypeCode>
+                    <ram:IssueDateTime>
+                        <udt:DateTimeString format="102">20230211</udt:DateTimeString>
+                    </ram:IssueDateTime>
+                </rsm:ExchangedDocument>
+                <rsm:SupplyChainTradeTransaction>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>1</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>067900</ram:SellerAssignedID>
+                        <ram:Name>[067900] CÃMARA LATEX PELOTAS KIN-BALL GIGANTES (60 cm a 76 cm)
+&lt;p&gt;CÃ¡maras de lÃ tex para pelotas / balones Flotantes y Kinball entrenamiento.&lt;br&gt;&lt;br&gt;Estas cÃ¡maras son aptas para nuestros Balones / Pelotas flotantes y de Entrenamiento Kinball, referencias 0730 y 0733. &lt;br&gt;&lt;br&gt; Las cÃ¡maras de lÃ¡tex son un material que tiene caducidad ( max 1 aÃ±o) siempre y cuando estÃ©n conservadas en un lugar fresco, seco y alejadas de fuentes de luz y calor,  se aconseja entre 15 y 22ÂºC&lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>13.00</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>13.00</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">2.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>26.00</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>2</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>067902</ram:SellerAssignedID>
+                        <ram:Name>[067902] CÃMARA LATEX PELOTAS KIN-BALL GIGANTES (102 cm a 127 cm)
+&lt;p&gt;CÃ¡maras de lÃ tex para pelotas / balones Flotantes y Kinball entrenamiento.&lt;br&gt;&lt;br&gt;Estas cÃ¡maras son aptas para nuestros Balones / Pelotas flotantes y de Entrenamiento Kinball, referencias 0730 y 0733. &lt;br&gt;&lt;br&gt; Las cÃ¡maras de lÃ¡tex son un material que tiene caducidad ( max 1 aÃ±o) siempre y cuando estÃ©n conservadas en un lugar fresco, seco y alejadas de fuentes de luz y calor,  se aconseja entre 15 y 22ÂºC&lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>35.00</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>35.00</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>35.00</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>3</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>074003</ram:SellerAssignedID>
+                        <ram:Name>[074003] PELOTA RUGOSA MULTI-ACTIVIDADES AMAYA (220 mm)
+&lt;p&gt;Pelota RUGOSA Muti actividades AMAYA, pelotas vÃ¡lidas para cualquier planteamiento de actividad, juego que necesites realizar. Esta pelota es una garantÃ­a de calidad y resistencia. Fabricadas en termoplÃ¡stico Pvc de alta resistencia, que ha sido testado por miles de alumnos en todo el paÃ­s. Disponen de vÃ¡vula convencional de hinchado (aguja de punta redonda). Con un acabado superficial, &#34; grabado&#34; multi-puntos que garantiza un excelente agarre, dispone de un bote perfecto y un peso intermedio que garantiza que los impactos no sean dolorosos entre los mÃ¡s pequeÃ±os, a la vez que garantiza que la pelota disponga de un peso adecuado para mantener trayectorias en los lanzamientos, la hacen perfecta para juegos, iniciaciÃ³n al bote, pases,  lanzamientos y diferentes utilidades con otros accesorios: juegos de pala /  uso recreativo en el recreo / juegos de agua. DiÃ¡metros disponibles: 14 cm / 18 cm / 21 cm. &lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>5.15</ram:ChargeAmount>
+                            <ram:AppliedTradeAllowanceCharge>
+                                <ram:ChargeIndicator>
+                                    <udt:Indicator>false</udt:Indicator>
+                                </ram:ChargeIndicator>
+                                <ram:ActualAmount>1.00</ram:ActualAmount>
+                            </ram:AppliedTradeAllowanceCharge>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>4.15</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">5.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>20.75</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>4</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>0026</ram:SellerAssignedID>
+                        <ram:Name>[0026] BALON SUPER SOFT VOLEIBOL ALSER
+&lt;p&gt;BalÃ³n de Mini voleibol Super Soft ALSER. &lt;br&gt;&lt;br&gt;Es un balÃ³n ideado para la iniciaciÃ³n al voleibol, estÃ¡ fabricado en PVC espumado, este material le confiere un tacto, un peso y una textura blanda, que facilita a los jugadores perder el miedo al golpeo (dolor mano-muÃ±eca) y a minimizar el daÃ±o por impacto. &lt;br&gt;&lt;br&gt; Es mucho mÃ¡s suave y dulce en su tacto que cualquier otro fabricado en PVC o goma, ello lo hace ideal para iniciaciÃ³n al voleibol en escuelas y colegios. &lt;br&gt;&lt;br&gt;Dispone de vÃ¡lvula-aguja para poder ser hinchado.&lt;br&gt;&lt;br&gt;Dimensiones: DiÃ¡metro: 190 mm. Peso: 240 g.&lt;br&gt;&lt;br&gt;Colores Azul Royal / Oro, en funciÃ³n del estoc disponible.&lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>5.85</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>5.85</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">5.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>29.25</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>5</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>137703</ram:SellerAssignedID>
+                        <ram:Name>[137703] LOTE DE 5 PELOTAS DECORADAS MULTI ACTIVIDADES AMAYA (21 cm)
+LOTE de 5 Pelotas DECORADAS Muti actividades AMAYA, pelotas que por su colorido vivo y divertido son muy adecuadas tanto para niÃ±os como para mayores. Su colorido y capacidades tÃ©cnicas hacen que un amplio rango de personas y edades se sientan atraidos y estimulados por desarrollar el juego con ellas. Fabricadas en Pvc vinilado muy resistente, estÃ¡n disponible en 3 tamaÃ±os.( si requieres medida no pubicada de 260 mm consÃºltanos sin compromiso). Con un acabado de superficie lisa, la hacen perfecta para juegos, iniciaciÃ³n al bote, pases,  lanzamientos y diferentes utilidades con otros accesorios: juegos de pala /  uso recreativo en el recreo / juegos de agua. Disponen de vÃ¡vula convencional de hinchado (aguja de punta redonda). DiÃ¡metros disponibles: 140 mm / 180 mm / 210 mm. </ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>17.95</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>17.95</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>17.95</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>6</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>001200</ram:SellerAssignedID>
+                        <ram:Name>[001200] BALON BALONMANO BLANDO TECNOCAUCHO XTRA GRIP AMAYA (145 mm)
+&lt;p&gt;BalÃ³n tÃ©cnico de balonmano AMAYA; de Tecnocaucho.&lt;br&gt;&lt;br&gt; Nuevo material desarrollado en nuestra fÃ¡brica de AMAYA Sport en EspaÃ±a, ofrece unas caracterÃ­sticas muy superiores al caucho normal, proporcionando al producto final una mayor elasticidad y resistencia a la abrasiÃ³n.&lt;br&gt;&lt;br&gt;BalÃ³n de balonmano de tecnocaucho material de alta calidad, que le confiere un agarre excelente y un tacto muy suave y agradable, este nuevo material mejora aÃºn mÃ¡s su magnÃ­fico bote y su durabilidad y resistencia. &lt;br&gt;&lt;br&gt;No hace daÃ±o, por eso es apta para niÃ±os y es perfecta para la iniciaciÃ³n al balonmano. &lt;br&gt;&lt;br&gt;Este balÃ³n es ideal para que los mÃ¡s pequeÃ±os aprendan las tÃ©cnicas del balonmano. Recomendamos su uso en escuelas y colegios de primaria. &lt;br&gt;&lt;br&gt;  Disponible en 4 tallas y diÃ¡metros: H00 = 145 mm  BenjamÃ­n (190 g) // H0 = 155 mm  (220 g) AlevÃ­n // H1 =  165 mm Infantil (290 g)  //  H2 = 175 mm. Junior.(360 g). &lt;br&gt;&lt;br&gt;  Disponible: 4 colores. Uso escolar.  &lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>8.95</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>8.95</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>8.95</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>7</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>001201</ram:SellerAssignedID>
+                        <ram:Name>[001201] BALON BALONMANO BLANDO TECNOCAUCHO XTRA GRIP AMAYA (155 mm)
+&lt;p&gt;BalÃ³n tÃ©cnico de balonmano AMAYA; de Tecnocaucho.&lt;br&gt;&lt;br&gt; Nuevo material desarrollado en nuestra fÃ¡brica de AMAYA Sport en EspaÃ±a, ofrece unas caracterÃ­sticas muy superiores al caucho normal, proporcionando al producto final una mayor elasticidad y resistencia a la abrasiÃ³n.&lt;br&gt;&lt;br&gt;BalÃ³n de balonmano de tecnocaucho material de alta calidad, que le confiere un agarre excelente y un tacto muy suave y agradable, este nuevo material mejora aÃºn mÃ¡s su magnÃ­fico bote y su durabilidad y resistencia. &lt;br&gt;&lt;br&gt;No hace daÃ±o, por eso es apta para niÃ±os y es perfecta para la iniciaciÃ³n al balonmano. &lt;br&gt;&lt;br&gt;Este balÃ³n es ideal para que los mÃ¡s pequeÃ±os aprendan las tÃ©cnicas del balonmano. Recomendamos su uso en escuelas y colegios de primaria. &lt;br&gt;&lt;br&gt;  Disponible en 4 tallas y diÃ¡metros: H00 = 145 mm  BenjamÃ­n (190 g) // H0 = 155 mm  (220 g) AlevÃ­n // H1 =  165 mm Infantil (290 g)  //  H2 = 175 mm. Junior.(360 g). &lt;br&gt;&lt;br&gt;  Disponible: 4 colores. Uso escolar.  &lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>9.95</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>9.95</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">2.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>19.90</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>8</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>0191</ram:SellerAssignedID>
+                        <ram:Name>[0191] RED POLIVALENTE MULTI-ALTURAS PARA BADMINTON / MINI-TENIS / FUTBOL
+&lt;p&gt;Red Polivalente Multi-alturas para entrenamiento Badminton / Mini-tenis / fÃºtbol.
+Estructura de hierro muy ligera y resistente tubo cuadrado de secciÃ³n telescÃ³pica de 2 cm para la sujeciÃ³n de la red, tubos de soporte estructural (Longitudinal de 1,5 cm y las patas de soporte 2 por cada lateral de 3 cm).
+La red se monta y desmonta en unos pocos minutos. Dispone de cuerda elÃ¡stica, que va por el interior de todos los tubos, para facilitar el montaje, facilita que no haya dudas en su ensamblaje y aporta tensiÃ³n al conjunto estructural, obteniendo una red firme y estable mientras jugamos.
+La red puede regularse en altura desde su altura base = 94 cm y a 3 alturas mÃ¡s: 135 / 145 / 155 cm del suelo.
+El sistema de regulaciÃ³n de altura es muy sencillo, un simple pivote de acero incluido en los perfiles que te permitirÃ¡ fijar a la altura requerida.
+La red se monta por encaje sobre los postes laterales, dispone de un sÃ³lido perfil de nylon de 13,5 cm de anchura para soportar las tensiones y tener una larga vida Ãºtil, este perÃ­metro dispone de un agujero interior para su encaje en el perfil de soporte metÃ¡lico y tiras laterales de velcro para su uniÃ³n a otras redes, la malla de la red es de 2 x 2 cm, con hilo de nylon de 0,7 mm, y dispone de borde perimetral de protecciÃ³n de 2 cm en color blanco
+Se suministra con bolsa para su almacenaje y transporte.
+DimensiÃ³n Total Red: Longitud 3 mts. .&lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>55.55</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>55.55</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>55.55</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>9</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:SellerAssignedID>1106</ram:SellerAssignedID>
+                        <ram:Name>[1106] PELOTA BALONCESTO PVC BLANDA
+&lt;p&gt;Pelota baloncesto O 210 mm. 300 gr., en PVC con vÃ¡lvula, con un grabado superficial que que facilita el agarre por los niÃ±os, balÃ³n muy resistente para utilizaciÃ³n interior y exterior, iniciaciÃ³n, uso escolar. Color: Naranja TEJA&lt;/p&gt;
+</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>6.05</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>6.05</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">2.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>12.10</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>10</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Gastos de envÃ­o BCN</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>9.75</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>9.75</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>9.75</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                    <ram:ApplicableHeaderTradeAgreement>
+                        <ram:BuyerReference></ram:BuyerReference>
+                        <ram:SellerTradeParty>
+                <ram:Name>ALSER ESPORT S.L.</ram:Name>
+                <ram:SpecifiedLegalOrganization>
+                    <ram:ID>R. M.  en form.2787, folio 162, hoja B126691</ram:ID>
+                </ram:SpecifiedLegalOrganization>
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>08020</ram:PostcodeCode>
+                    <ram:LineOne>Via Trajana, 48 7Âº 2B</ram:LineOne>
+                    <ram:CityName>Barcelona</ram:CityName>
+                    <ram:CountryID>ES</ram:CountryID>
+                </ram:PostalTradeAddress>
+                            <ram:SpecifiedTaxRegistration>
+                                <ram:ID schemeID="VA">B60748282</ram:ID>
+                            </ram:SpecifiedTaxRegistration>
+                        </ram:SellerTradeParty>
+                        <ram:BuyerTradeParty>
+                <ram:Name>ESCOLA VALLGORGUINA</ram:Name>
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>08471</ram:PostcodeCode>
+                    <ram:LineOne>C. De l&#39;EsglÃ¨sia, nÂº 66</ram:LineOne>
+                    <ram:CityName>VALLGORGUINA</ram:CityName>
+                    <ram:CountryID>ES</ram:CountryID>
+                </ram:PostalTradeAddress>
+                            <ram:SpecifiedTaxRegistration>
+                                <ram:ID schemeID="VA">Q0801304G</ram:ID>
+                            </ram:SpecifiedTaxRegistration>
+                        </ram:BuyerTradeParty>
+                        <ram:BuyerOrderReferencedDocument>
+                            <ram:IssuerAssignedID>INV/2023/0049</ram:IssuerAssignedID>
+                        </ram:BuyerOrderReferencedDocument>
+                    </ram:ApplicableHeaderTradeAgreement>
+                    <ram:ApplicableHeaderTradeDelivery>
+                        <ram:ShipToTradeParty>
+                <ram:Name>Nuria Coll Pons</ram:Name>
+                <ram:PostalTradeAddress>
+                    <ram:PostcodeCode>08471</ram:PostcodeCode>
+                    <ram:LineOne>C. De lÂ´EsglÃ¨sia, nÂº 66</ram:LineOne>
+                    <ram:CityName>Vallgorguina</ram:CityName>
+                    <ram:CountryID>ES</ram:CountryID>
+                </ram:PostalTradeAddress>
+                        </ram:ShipToTradeParty>
+                    </ram:ApplicableHeaderTradeDelivery>
+                    <ram:ApplicableHeaderTradeSettlement>
+                        <ram:InvoiceCurrencyCode>EUR</ram:InvoiceCurrencyCode>
+                            <ram:ApplicableTradeTax>
+                                <ram:CalculatedAmount>49.40</ram:CalculatedAmount>
+                                <ram:TypeCode>VAT</ram:TypeCode>
+                                <ram:BasisAmount>235.20</ram:BasisAmount>
+                                <ram:CategoryCode>S</ram:CategoryCode>
+                                <ram:RateApplicablePercent>21.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:BillingSpecifiedPeriod>
+                            <ram:StartDateTime>
+                                <udt:DateTimeString format="102">20230211</udt:DateTimeString>
+                            </ram:StartDateTime>
+                        </ram:BillingSpecifiedPeriod>
+                        <ram:SpecifiedTradePaymentTerms>
+                            <ram:Description>30 dÃ­as</ram:Description>
+                            <ram:DueDateDateTime>
+                                <udt:DateTimeString format="102">20230313</udt:DateTimeString>
+                            </ram:DueDateDateTime>
+                        </ram:SpecifiedTradePaymentTerms>
+                        <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                            <ram:LineTotalAmount>235.20</ram:LineTotalAmount>
+                            <ram:TaxBasisTotalAmount>235.20</ram:TaxBasisTotalAmount>
+                            <ram:TaxTotalAmount currencyID="EUR">49.40</ram:TaxTotalAmount>
+                            <ram:GrandTotalAmount>284.60</ram:GrandTotalAmount>
+                            <ram:TotalPrepaidAmount>0.00</ram:TotalPrepaidAmount>
+                            <ram:DuePayableAmount>284.60</ram:DuePayableAmount>
+                        </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                    </ram:ApplicableHeaderTradeSettlement>
+                </rsm:SupplyChainTradeTransaction>
+            </rsm:CrossIndustryInvoice>
+endstream
+endobj
+4 0 obj
+<<
+/AFRelationship /Data
+/Type /Filespec
+/F (factur\055x\056xml)
+/EF <<
+/F 3 0 R
+/UF 3 0 R
+>>
+/UF (factur\055x\056xml)
+>>
+endobj
+5 0 obj
+[ 4 0 R ]
+endobj
+6 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/Outlines 37 0 R
+/PageMode /UseOutlines
+/Dests 39 0 R
+/Names <<
+/EmbeddedFiles <<
+/Names [ (factur\055x\056xml) 4 0 R ]
+>>
+>>
+/AF 5 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [ 8 0 R 32 0 R ]
+/Count 2
+/ProcSet [ /PDF /Text /ImageB /ImageC ]
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 9 0 R
+/Resources 10 0 R
+/Annots 30 0 R
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+9 0 obj
+<<
+/Filter /FlateDecode
+/Length 4265
+>>
+stream
+xœí]I¯Ü¸¾÷¯Ğy Ë¤HQx‹_60‡ ‡À3Î`0vâ™Cş~¸hWluuwYz-?Ì¼…-ÖÂâÇZHêí_>ü+û÷ÙÛ§ÿÍ>5ßŸ>DnEó/ó_o†(DV6Wµÿ—}úrø–};¼?¼wÿo¿ûg¾L­òğ¡ÂıúÛğW+‹\[T…û»˜şê?üËáÇ²¯®Ã–5¾şøôõğ62íÚWÚHUÊÀæôwÇ›ÿfM•I!Ëì÷ŸŸ‡m—îã•(­-Té¶¦¨t)j÷s-dmDeõùem¦+íØe"¨uÉHPÛ:ˆèF‹ ‘`idĞr©Ôô²4:š©Œ½„l]q¹ŒÆcÈFĞVqKF‚a¹²C›#XŠ‚KY¡Íô"²b)+´y‚^BV,e…6OĞKÈŠ¥¼Ğ&¢„¬XÊ
+m`CF,å…6O°¬™±”ÚA'"+–²B[ è$dÅRVh„¬XÊm"JÈŠ¥¬Ğú1äÄRVhs4ÜXÊ	m ‘K9¡Íôòb)'´y‚^B^,e…6%äÅRNhóÃ2b)/´y‚šÛ/e…¶@P3û¥¬Ğjf¿”ÚAÍì—òB›ˆ²b)+´‚š×/å…6G°Ü~)+´y‚^D^,å„6OĞKÈ‹¥œĞæ	z	y±”ÚD”K9¡ÍcÈˆ¥¼Ğæ	ÅŒ¥¬Ğ:Y±”ÚA'!+–²B[ è$dÅR^hQBV,e…¶@Ğ!'–²B›ôµJÁ¥œĞæ	Ú°ïµB›'è%äÅRNh3:š)/–²B›ˆòb)'´y‚a±”Ú<ÁªbÆRVhˆ¬XÊ
+m “KY¡-t²b)/´‰(!+–²B[ èÇKY¡Í¬%·_Ê
+m ‘K9¡Íôòb)'´y‚^B^,e…6%äÅRNhóÃ2b)?´±#ûÄgŸ‡ìÓbj¥ï—=Úóe¼­¤ªŠR»Ÿ)+£½LC¾–|şÃÓß"û_VdsÿıšıãŸæO‡od¢o_L¦Šìãç,Šğ&~ûfÎ×Wöñ§ìOBùçìã¯isQ«ª0›–"¶”y]*Y”ƒÕ¶Ö7Ztl‘y|dĞRÆ–*·e Ô·˜öc=3Ş}tƒ´B=r¤ÈjİÌÖ#fm`¶vİF¥÷:¯CK¡óYËCl‘y¥aËcA—²4#Kyj­«Œİõ-Ï°?ó¶`0Üò‚Z¤è¹§ğ5šóá/§xö`Â*“æèºÔJMæm‘Gg³Æ¶Sp6o«\ÌZtÓR‰ãó¶Ù¼Õ¹ô‡-Uk]Õq|8F÷ÖÚªŒğ0³Õ8ån¢s]«‘Òã"/£dS´¹œÁhİ*c6PO­jÕT0¬Œg¨ZÌÁó­ÕTÖÆ©ÉáÔhÖ¹­…YjMØj)6órs‘íÈ2`p‹0ÒcãÙÇ–G™2Qo®&¿iã; –ŒtT^Õ“UL·¹#‘¥j´_)=1Ù8K*Wq, PYBk¢(ÛÙ]usÖòv
+L†'VÓÀšz¿Í9[:¸hşgï¿Y¡¼'CØâü¸I„púóœÅóˆ6ÎbÂÓ0f<—tŞ€ù‘Å¨0clfÙ±[jÁthÈuÕÂáÔÃm&—[Şg½™¶ej5²j=O;±Aiá3uÛ2å?“àú¡™ø…œÄO	½éiÌ%ŸZÎz{n{‹Ópo­'`ôÄHĞÁò¼´«‡ YB¨ƒB4tÌr]YHã¥vÈÌp\ÀúŞ
+„+…jéL[cŠõ[’v‘ürIñ3	»†Ú¡Ø(iLË¦¥˜YD±‘K½Nü®gËÿl¦]?—ÛE³âUy=ËÖ`À˜5Œ9 ÈSTk¯²°Ã·q7ÖÊ¬­†Ìà;ÔRÔw>Á“+ıJ•b&#ˆÁæaÕbTb$×7‚1jëEÇËy—š-ÀçM<AÃ‰U<®Z‘µ>fgaÿë³.«Ê×€Ş±(‹.0_s`ˆÍn÷Àp÷Àğ‚À0áôB¤5#»®V2&4Œ‘® wLö‹t£Èµ2ëƒÉÙDÈˆıäWç,šñnÕYÁä@Œ{&¢ïÁä%ÁäG‚ÉíãCp9lgï”`/ø/'†ö¼hv¤`rÅ¡O‚kšÏ­s?­µ'Ü~È5vÔI\Ã sĞ5Ôh"ô¡\"`ÃéxIpı®ŸiK"lÆÏ\5,Kèr)^:»îõ$ØñÚœhYõ2äñÛˆvGq"\Út Õ-PÅªã÷²®0{–;”ğW-ºÓVİ!cÄháhàtxÂÕÅşĞªÇ6RıØîÔE”]¼æœe]Ø_7rÄ@jóÈbÕæn)©†+y„ èÊu^àªB‚7è¤&‚JC,
+o	È†ƒ¹kÃŒ•yqhŠGj'¬`Û!p@
+<`o‰ñ9e+E›à÷p³n„nñŒÙ³7…İ­U‹nÆã´ÕÅ-TbÜ[a úîü^âü‰}Jh…Õµj|Îïöñ!8¿U7€Ğù¥ìSNlIÃ•®*Âu+ØíÂvAÈ÷&zÃé&+)¤G&jXÂ6CRE€’İç­Ø¬Õj}RÃ{¥ˆ°m²R”XÃîmƒ[¿äo`ƒÛŒÙ³<ŠDŞuÓ¡iµ`’¬ÚõŒ¡i/Æİ…¦½è{hzQhºãC6M7Ş‰«ŠÛÔe(ûã¹®ÑXu-ç»óFq=½a(: œKœbÂn>kÒÉ4Q4š¶pĞ€ƒVØ›’'x[3Ş•²å
+LŒäUÏ?&¶ŸâJ+ôdp²éµ ‰µn#¢¤ï^é–Á~É_yhêk£=³‰:ç«s0Íxœ¶ê`† t Æ½ Ñ÷ ”k	}¯(ÂÌí£@p»lW+Xq˜™Ènìaæfîaæf.Ä;+ìf¾Ú03±Ms3»0³[ò×}„'†™½rG¦™ŒÓFÌföbÜ]˜iõIØŞÃÌuÎ^‘×=İxò‚À•*% ›Ç‡àé.ïO@IæpÕ`2áâ-i0ğ mY¥œUº*‘Ne]õ–¾Õl½ÖEòP¶íR¶Mb¥ß\ºfì2åi›DúÚ,åNĞÄ|ºjêªyÃT•‡®.IIs‚6ó‰¢Q|F7Sè'dW:oCÜ;+¯´úMÀf	éÄµ-=fÆ#¸Uç7Ç1î-8ˆ¾Ç—Ç;>	·ÁÁ¬»já|*å²ñë^Î²æs–«®ÁâJáœ)  Œi­qsÍUàuû†Áê bµœš]õ>ë^Ìdœ6ºEwµãîÜÕ^ôİ]½È]íIÙ#F¹…tİÖİÕÍãƒwWkÕE"ø]?ğ.*¶˜#/ËÖMö®šmEj7ŠiN+ÑÔ°Òc1ç­lZôìß¸7øŒ2-)oªj]›©C¦lcø€,ÑÉ¹:µ%m¥öÜ¡®ÛwóîPÏ,©t½Ñ«SÍxœ¶
+wÁˆqoîĞ@ôİºäÅ}¢@pzÎE“ğ5¤ÿrZ„ÙƒÉ
+¹4ş2nM·éyfæ¦e>æÅ-eã·Ô3¯¡hÖù¦aæëTy%¦ÏàÌA;5$Hˆ8¯a–ö0ÈÓèkîi@y½a@Ş8RÇ¥èZ¶Ş–õöØ´H)M¡+Î«‹ÌzÒÆí®º9=t™J~‘r“%‡G¹Júª/7¥¼—(ñş#Ø.Õ“6€à-(Ø9ÁºÆ›Ú€§n7¨2·Ó³ªåÀ–“‰ÖLÛ¾”ÅI+N™÷U=ş`%³à ‡’WÓŸú+D!İÿQu¯(—·7ï;ôôãöØÁUX ¥ °}<5é	U/®Œá”†znxS³ù…9xÓ˜Î©Ùz$­CÁ˜„U¿4¼éÆày…kš7Ç˜`«ætÈ‡Oã«3Î?å¾G|‡'NÙğ/a«8‘…×Ø^°c»»ıj,¥?ç t‰—bC-á»<IJ<‚„Õˆô*o¸i31×	è©[Ï¶n·€k-oo)hİ•¶_w‹î<+…èİ<0Qõ†(ïGO¼½[FbL‡r9^•0„ìX‚k‚šuê
+£².e¸Âº;õÙ¦f	Œf?’T­5•ëØ:BIÈ´Ø)f-ß1IPZÍš$£²g	^–àÖ6´(à^qà¦UÓ2«ĞîÛk
+Ü¢±öYMFn;®ñáZäï¡Ûº¥MeÁ&ØkO¨–òÊUÌ!¢àˆ’ª„§„3š·O]—zCëöLÅ¼Ğy{¾T#VÊÂ£gÓ³BYú(â@ï”Á÷
+ë[ª¾|¤Šn*?´È:[	µşîÈÆÜ0pĞÉT·—m¾RSÌ…¼%ö.ÀŠ~Óã¿gİŞÛƒ>½¹91ğyoÂ{¶½QŞôpj9¸áLS~£Ô]Nµ6<œoP¡l!l JdÙğ¦£ënìi!~¼ù”†·`N'Ö.Êœ¦ô¶±9]Öj4§»ôMS®[öØjñÆ.‚m2DAúôá*Ò(Ê” ãR;s_Ù7§Ã¤Šß»DµÉ ÁB;tÖ~'í§/gmÃ>=áqo_¦Vyíÿ£†ß†uQçÊüÊÿ]L?öËáÇ²¯^¾Ü:(6R•Qñï×©·E¾†Éƒÿ€5~"WÙï?>‡±â‘ã[ÿ±\kQ;40ECMÇÍÈ•3…Òı!I¤Tª™rÂ?îÿÿéKöö¯_d‘eÏÿ¹ÙÄ6¢r»+›îî"®Çwjáß8‰ˆên¸£¤
+¹^%M)Q%òğ&¦Ä%Î„ìÚ´vPLİG;D×”Ÿ9›İ„Ó&³Êa"\+<3ê¤éo\ÚÄ3„`Ó¤â*åvHŒø–C<!o¸š‡u­†wnf¶{ƒ?JáŒò€D '²«óy£¤ùI»Äab.‘4Äzƒõ2JY1áö*³“òô±AJj•äšoºŒuë±U§¯İ´şö2àµ,¥¬O»§JUGœË“5¥ó®À».ñb­I«Dµ“ÏŒÒ
+×Ïœ•ªpóì
+)
+ßË(5áÿ0JIHkÊ\‹Jªƒ˜ü?¾0q)Ë—¤ Ú¾Á§LÙÆô¦é2$Î]š¸
+L¨²ÙéíşØ½ú”•@[ôŒ®ì6Óêé4|†‚W”}‰=¯è‡“ªxç¥$u Î&ZÂ7%b	|ÛÛ¢ƒù’k[¨Òß<0AiÛ’É;;qî¡˜OCÊ!"Ê”ÒíÀÌ
+p”cYx‡(Ş%‹_aÀ!¸j”ã_‰›¡ğbìJCšéqÓk(`qHY®‹:â‚4ùÌ˜áë¶6=÷¬	ˆ®ß¡Iƒ‡·$Œ&æ]qË>9¿ïäÌuƒôÒÿ\ÚüşçZÈÚßX3º>¿àŠœóˆ¦W[wÓ¾ìœ?˜çÕ/ĞàğúAØcõ²ÍŒ«S´Öz®èñıq«c¹Ts–/xÈZÅ4öˆ˜ÉØşò˜5¹ˆ¿ÏŞş&3ú”
+endstream
+endobj
+10 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F6 13 0 R
+/F7 18 0 R
+/F8 23 0 R
+>>
+/XObject <<
+/Im12 28 0 R
+>>
+>>
+endobj
+11 0 obj
+[ /Pattern /DeviceRGB ]
+endobj
+12 0 obj
+<<
+/Type /ExtGState
+/SA true
+/SM 0.02
+/ca 1
+/CA 1
+/AIS false
+/SMask /None
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Lato-Medium
+/Encoding /Identity-H
+/DescendantFonts [ 14 0 R ]
+/ToUnicode 17 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /Lato-Medium
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 15 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 530 561 495 474 357 554 363 251 281 759 675 450 575 575 575 575 575 305 575 575 305 662 675 924 675 624 511 587 573 647 599 795 539 661 369 643 724 266 819 266 575 226 575 798 575 731 755 623 575 759 431 563 557 525 555 514 241 240 236 234 397 517 525 399 558 555 575 204 249 795 598 240 525 349 575 831 1030 557 555 495 450 554 ] ]
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QDBAAA+Lato-Medium
+/Flags 4
+/FontBBox [ -556 -270.5 1343 1082 ]
+/ItalicAngle 0
+/Ascent 805
+/Descent -195
+/CapHeight 805
+/StemV 97
+/FontFile2 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length1 18748
+/Filter /FlateDecode
+/Length 10927
+>>
+stream
+xœÕ{yx×uïÜÁ¾ö…ØûB ˆû¾ŠÔFj)AIP(J²-;^”X²œÆqãØÍZÙY\'ÍÖè³]eó×¯/¯qÛi“¦¯n›—¸ï{Imõ%m*‰à;w0 AZŠ“6ù£ƒÄ»œ{Ïö;çŞˆ !qÁ!ˆ½£uõóáë¨y¾“³ggÌ¯kê ü3‚ˆ~m.›¹±ë-‚¨ê’sPAí¾÷ÿî]s‹Å3“¿¤g"&$4°Ï¤ßjùñ"¾Ú?±˜>³L!> ÷¿‚{z)½˜{öĞ	‚HBc'¸Ü!ô‚G¼3<P0”9/gĞ/„’â“$Éåœ$È}ÄÏ6€Š¾Dñì¾aâkQÚàï*C ø2z–&ĞGqçßy„g#$—×È»F$ˆCÄqb‚ ÔÉT2U¯×áV#ào~N¯'•¬|¯ÇÉ69^u¼\Û1ÒË÷zğ'ìJ»RJñŞŞÉTÂëÖjå
+Ád6T*®ê!9O.Óë,&ƒA©@WƒßlQker©Y6%*)ÖhÔj)J,‰)J‹ït”R(*=ÅùÙ-M’söÖ»¹ïÑ6¤RÙí‘º¦FŸßBkujZe˜?ãª1iµAo5û#VˆÅRHëºA§U–i*µ:C™¦!IyFî£7ºy×nÜÃáWAV½ +0Ò+ğu*¹½ë}äèúg^ã]{®${nıQè@DÇÆ›œ»¹¢…8HvÈÀËß.’+²T"¾%J¦Ñ‹ku¬ •îúJ?¶–_nâx,”B¤õ{¼`]¤¥-ôútd·;ûùúxº§6l³Œ­Œ9ÍLŸ;ÒÛS6J®ÏëtØ¬¶»N$$—êu6«HdwY-j$ R8‰Xkc*\k5óö¬¶´ …R£Q(A:yÇˆß‡ÙK^Ÿ;#©5Fú{<Š2íN¿ÏlQ©"ÚèÆ¿ræÒD7H­l,ûõš271Ë¦N¯ß²«²ñT$…‹3-	J¥ÆhòúRCM¯Zƒ´Z²·£Öo1©Õ½<å®EcÉTjêÀÖv§“¦ÛÛÆ¯åèäì“òù2EIeÈhÆúúDê5H©P©”0ß_k¥U‘ÈåèëÍLß[È¤úı^äru Gµo‘ßåµà—°Ä”Ò	ZK$RØub1Æ.@E±ú*—À,¡ïïîAçTÉ§ƒ\‰T5…|¥ ÚRoÒj(™ŒÏ4Öwõ(zû  eín=jRˆÅ¥_^ªİJùb¡PÀåŠÇCF¶ÈÀÊ~Æ¥Ü0sb!*cJ67gÅû”¨%â'‡{{š_Zˆ=#£‡:;kƒ:=—ZŸ?ÕŞ<ÎNòÖÍëŞ“¡²˜õ»ú’€9.ƒ9ÿ=X²PLYfs…•ö
+ü;,B(//Û¤R®,200í°Zõ2¾‰2YìQ·ÇbÕëÕ\J"±>1ÛÜ‚øBê}ÄçË)“Ùç‹­YïB—Ày wíNe]z\ª\Ï›’ÚñìˆaˆáÑãExà…Èm’ËUœ‘ÏÏTJÅ­‰Ğ¼k|îæKf@Î/ot‹„Zn‹ÉhÒİâ0´a.Ş”t€{k=¬6Äè99Ÿ6©•"ô~0‰X*•£÷ó4jÓ³ëÏ~•wMFénÉİµÁp8Xëæü«ZAİÀFNto\áLğ~
+øJ`½;eb%Êb¥÷“YiMkTåU©xëvµ
+ú®$yß&ú`0ëöú
+ò2Cí°4­ÖÎøª`Æ[]Fø'&öïoirÚ‘Áè$ZJüÁ€ıĞ¦Vİò‚¯¢Wšê"v‡J…Ôj‡³®.™…\NƒQ$×é|3TÀ×Ù6:Âû62Yâ‰áİ“#}ımÍm-¥{ÅBJe=İ­Öë”èû-ÉDC²!ÕÑ	Ó´‚R(M'ì‘Iùªì=‰¸É„±°yã:wø³íÀ¡æöÎ]‰‚x¹¾—Ú
+>°îÄó¦¦–O¥§úıpöO¥O-OMüß4›Ãá––®®–ÖpØW8ÜŠïZÂa³™|ık^Á56~ùÑ¯}ıòåñq|7>~ùò×?qj¹·ÇjP³öô.ŸúÄ'—Wº{ÍV«¹·{e´tpãMn¸˜aí°:>V•+>çM%õen.>Qa.‘Ü^q{-f'÷ìml¤mJmG/ô{½]=GO¯Œ65{<Æv«’i5N{<¶o°©ÁíV«)…×?0¸r¢³ÓïW©Ô»#N&ÃX½1NßŒ<àïlõšÌÑúŞŞıÉ_ÀdQy}hnÿşÆF« è;è¤ø|«ÕëuºôƒÁç‰ÔEš"§C«B—ÁtìöºPHÚjQŞVù$ö,î<ï+„Šñß–’Ó	[‰(ÆalÚÎyìb©úOŸ]?«UP\5ù—ö,Iò×	ş¬?¥’HK {¤RM†ó…ÒÇÌv›k½hÏnlp} ‘0±hc‘Ug»ÒíĞB^'bİÇëØ2³‚È¿€¬A™êíjhp8\®ÎãÇænku8¤RÎf÷–>BMö/’óH«s{ã©ÖnÀ­vhèÁ¾Æ$¤7j²ßTc45z„,¦dbß™ÉƒÛ[İnäp¶·>:×ÙÔ”lH$J¤…+ìNÅ½niõ@0ÑşğĞBÏ‹a,}ŸLñİX1¦,ÈƒWÑ}”Üğ©OäTéû‚}»uõŸ‡$i7ö¾y°Û½€qFJ˜Ù*o«àŒ·ÚYìÓÜŞv+¦ŠşE£PQÑ¶ÖşÃûö´´8Èíéê;±|êØ±N»³60NQ&“ó3ëhÔ^OCCsSÀgĞÄøSİÍ>¿VËyÊ Õkl•Å’jÉÍ9ÒÑéö §««sb|%½´pL%—İ÷66úı~ô~Cª»¯±ÑëÕj†@ ™ùœK;|â<Y[Q4ƒ½ØÖR	îA$	×?%7—Èts]¦‘ËïÚ!Ş ¼ÙcUk¸Ï%ü”Lı Pk-}]c¥…+œDÂ®l¥(,kŠB÷•¾¿RRş^ŠÒíşÕç0öŸØx“›ìfPBƒd²˜mHáØt•L£İ‹Jùc÷ßÿ¥¿ëşãcÑúx|òÄ…?ö¡sgÆú„"±RSS¶uåÇÆ»z\n¯»§ûøñ\G¼>Xëu{"JÉÆæ›šjHf3/~â/Me’(–80%áó‘FmÔkÔÈëÌÍ?ôîù“^ñ•ò½SÀãÂv¡%ó Îyìtsìœ²|cà½¼æ ²w©ÙåÇxKO[*ÑƒëÅ…*•éir×_—&¯K¤R‰T,•ü=ùDéJ9¥¿ôD"D,“)a€–>©¡(Şµ[3d—Ùå
+]ÓúWyı¥QBF‰Çƒ¹ÊÙÿEĞº‰[‘ ïVÊ6àØÌ»ç\6êaz
+½!SP–=™YRKa{`MJB(¿ğa“B!'í±‹Ålâ¬y¼İ\»®ÆhºuÖ •F8—L&³îæë¼k<¼¬’IPDÍ¯•Ğ;	äNÜcOÆ™sØ ñ ßİáÅ‡f{©·Úoa_EÏ\éî†-’ÁuuğZĞ•?o6–Ş«Òh}ıÕHzİŸ~…<±şÇ¼kfK29´{lowO"éõªµë_‘ƒDòG×·ß×ÕÅfnœ¬ö©nœüÆĞE²xëùW¿ğ¼B8sä~Š‚ò¾	Öà~´xµäç]ûü_ğ¤Ÿ¯ì®ú —dkweØËû«úõo“/¢[+xåıD©æ9&{SnlğÜP²ÃTNßÊ à…Êéáà“Â’õUD,Bk\>WˆÒjË_•jĞ/_1Èä‚Ò½>WzX,“jÿ‚üùMP¶ş"¨DN*mëíë\©TAN€~Dëß¢ ªYmpŸdğÆ{{mx½›\	ûŒ^¸”›íí†ÜÌåêë›™»ğÆ#íÁ€^$PÛŞyğ’^ÿŞ5ÚŞÒràĞÌÜÁÃ­í'úÒk}Ş†dO7³yV#XÃøÆ[|éÎÌêm€£ÛYU \Ïßğ|i<ybòÂ…+Wº0™'ñôä…‡®\¹paòD2ş—«»ûÄDqõÄDwÓƒ`ÃĞÓ=qbµ8q¢»Ûå"_æâÅL6ÙPAšg®\º8iH!”jÈL_¼tå“¹ÁAŸ×ëÌ|àÂF¸NÎ.Û!JÀIvû.±’Vv‰úÑ¼*ÛÚ
+j©ÙûIxª˜óœX,Qª§+RßÓÑ¥Y-õÑöö®öhÔfµ;ÚÛÇÇN÷wv7µÄb6\ªĞZÌ~sÓîTÒãÖ¨­Öh}[[WW{{¤Ò&ÚÚÜtè`ş®¹™İÜï)B¥vğ
+;g«Õç·y¼f‹F£×›,µÁ¶cSµµ»\HNŒ.GhZ*êô€+z¤R9‘HsgÀo6iÔZ­ÙuuOíÙ5Ø˜rÙ¯+'¼£`ƒ4Î­ê·Bw	<e,À	8å × × ¿ÓtÎ/®ÿÈHÕ’ÍWj¬¤Ñêkê¾ú*§],Ö“N“D¼~¹^£iZß%•hÉN£Dº)ûòyRCŞM>ñN.z•J$ùü3p²±—¡“Ğ©ï+ş åo¢ÓfÙ‹”v]•–ì‰Š¦°ªìWÑÎ¤;Û­6¤PÙ±XïG÷@ÚÔÕ3™¾«ô¨a´¥ÉëV«öìıpélìokñz!Š¡áá–~Å»VcŠÆú&¢±@­İ©¥º0±{wªÁJ#ò©’‚Ó	7.uv ?T)ì¶P¨á|KÂüAü;ñº«ì+µ#›dø¦eİa«’ª¤¼éüùóáÑ?ÈÎ€ƒ$â™ôå‹Ÿ=24ÔÑ‘JÖ5SzƒÑl³ÃM­#w¥3½½nv‹ÙÙ{£ÁZŸ×íòüV&Eß|t$ÌlÿäÅK™)ãR¹ÁàpÖNêy|%¥Q«•r)B^ÿà®\îş‡Ny½<T¬kP“T¢:-}ı„Ÿ"üØÓXd`Î÷<;`£ª!²!5/$‡#
+íI$ívE)ìödbÏ!¨âp)œO5üíËßy^)•Å>?¾ºZ8]<súüİgÏW‹««q@(ÉdŠ^şnùloàÒDœ=[ĞW¼³’?Ô—Ãv|µ´8²³I“òòªO"oè;1×ÙaÕ¹œ¡ÚX4ö©cÇÑKñX&èõYl
+Õ7P$z¢³¡1Ì¥¼ÙP-jlL'ı¾£T63sm=G>Qlk¡(«5nÄwgš›ÀĞZnİ‚õ5¬¾²Â†XTj	Øú$r¦R9•H :4œñP
+âIR	Dª\*E>ğÃï¾ü‚]¥’€X@gÎŞ}şô™âéˆE¢RÙŸÿÎËØ¯@\Ññ¾óØ”]OmZì–pT\GœuJ&—ÊD^ºúd½õÆãœïë(á€|áAt×WZó¥FÄMœµ1¼Ó#·é;™ªXû¼ÓÑHJ¥P„drcÛ¶9J¬€K.ˆÍ:¥Š¨‡¬¶eZ“Å®Gëëê¼6Ÿ/–)ÅjµÁh±Ø‘D¤…µ7Şâ>ÀûFxu¬Z¿Õ1‹Q+³¹ñÚùZğ(ğ)ö–{e“¶	äúê0àLÄÀWğI9ië#»ú'Æó§Òƒ=`wl‡­¶Hdè±‰I;é§ä¦‰àúJa,-Èì¶ºpkË@Òï·Yµ¥B&•‰ùáèÀÂÉÇÎœ˜ìí•>ÉâÎGî››ôzãñã»D!HÑë4*”É|¥U¥PÂ­R8¥¬UC)ÑÌğîXÜXƒÏMÌ£DŒ8\Áù¦Fä÷œ¿°,SR”FáïğÆ›|ïeˆêÄnb‰xôí§&)ÏS“§A;cûV`À	é;QÓ;ßùF)T×ÔÚÑßÜRÄ¬Õƒµ-Íı}--ÁÁø0CÍîòØh½vYH.7èi›Çe·Õä2D>)¦ä5Üü+	¥Pÿ7Â&L°¥ƒLĞÁŞV† z¢Š¢R6 (3¶(rêîGpEÂ½İ‡ôöD"£Ñ‰ôôé¬YMr™Ln²†ê:;ƒa³Y&•ÊÌæp°uK$¢Sr¡ˆ÷‘›×Ş‰ŠS1¿
+ØwìÛñ¯ƒÍ`ìœ­§!;´½[¢ŞÌÒ·Î#¼j;ç:2šZKÍùÉ•#GZšmVäô¤§–;[Zâ‰`ĞÑ¬¦µ5F·«>Ú;ØÖÙ£©5^osËî¥{Î­‘_áå5¦ÒeÍ-##ã§OLâ,M*Óé,fÛ³B©Ò((ƒ!jkêI&¼H(½.ò‹Øœ¸!n†²˜rçÁT±fAş¿#ı½õ‘#zÅÚ½¸ôî‹‹‹Ã»}şWÁ.ê#ı}Ÿ¶Z’CCcø)Í»—öî†BÁı{—ß…k¥RV+»Ãù2Ì¬ÂsoZ©}3•ØLaqUye¼/Ç“8k]ÿ!éÅ¹êÄf®ºZú]İÌOßı0Îjy×‰Éô»¾ò`.‡÷º7Ÿô@°ÍAº±³`vC9ŸG·;&şêúO^0+RÔ«¦R	¡µ[¬R˜_$ûÖ_ û8k2¹nı5¯Í/7TSdG`=WÔûˆåòsƒÍ¼â6§ LpÁ¥J¾TÑÃ~3åPŞ¡C%q&GòÇÇº:]40p±ØØl·µ4d§GGš›ìtSËÊ{v Ø‘tu[êkH1;ƒÑçO¦š[’)Ÿß``qRı}ÑmV(möºúöÎHÔf“ËlÖúˆÂŠŞ3œ~dì˜?pèà™ıı}‰¸®x¢¯ÿ™ƒ‡şcc¤‡÷$,–§4—³>Ú2;ì8´Øñø@K´ŞéÒhÈkZ­Û×GBµ».»£6©‡n­¶ê¹€„y^€·••1ŞÌk·şãµ×8‚×È'×gy×ÖWÉKĞ»kãMN2	ì•p±Ş6?©;ØE%æW6t›ŞºcgÁ¨|‹2*5“Åí].£’ãc<;‰E£Ë CÈX‹îš\:r¼%$IÕj­Új	øÛâ^·	2¤3¸=u‘X,q{ôz@ÃH¤·ïèÌ‘Î„IÅ”L*‘HÕ£Éê3Ö¨5rJ¡Ôj­tm¸uWk[0˜ìt5Ê…„d”R	,—éµV«=`‚%W*´Z;]W×ÓÜªŒvºïjG7®s@N6°ÔÍ§o{šËZ«ºÍ×Y’ı+ãÇ;;\‡«£óøøJql¼£Ëát:º:ÆÇŠ"48ôø“ƒCriäöôöf2wİ•™îísã-¥»¯wßCìqßšÏf®şÙÌ4BÓ3v5“…ÕØ¸Î¹Îû)á RÌSÕJæ½™¦WôÀ÷Ä”næy«éÍç¦wûÅ*»?5¦Æâ&bvn£#óã=]‰—JÁÃõÍ}—‡‡Ji·CbsÎo³ëõR)ì«zº3™w¦3ƒş ²ÒdóšG‘ß³½Õaª™Î~eº¯?+%‰ıÿÊyä™"zªäÉ Ú›ºÍƒÏ
+;z&+b=›l:±o8­‰$Æõı£> ûÑîhÔé2ÔiÊUW—L56§ÆÆºº±\öööãÇVïÜ¥$}Ìóñ(Hßjoj9t8RP“}ıá:°2%$HûøÓ¦Æ?]ı½¹Ù÷œœïëñ{İ5tk,æq1ş¹;çß€3KUî¾¹=ªÊÙ™$êY:ĞÕª…@õR<1¿·»§	ò“áó¹ğ0N¾—ÛÛİîuĞ‡ü—«àRø	‚İYÆbõ,ÿ\éØÇÀ½ø%©XùOQÚr)‰T±~ÄåÆ›)ò=J©[÷Ãğ'
+(ÌÁçºÆs˜Ã¡rŠtìèÉ·(ŠÒ­~P¦R¸¸ÔÍë\
+}µô+%_ˆ~¥“‰™s@ot/ïo†³LCÍßî;³)tôÿŒÄ•Æh4™•Z‚_0¨!-6™ŒFJ"f§ê¶è*¶pR‘FeĞ[L5µJ—Jm¨™<3ûç°«?øï§7j Ú7ŞB§!×·A®ïÙ4©íxÆ®p	IÄøè¿lÛSÂYºÉ÷J±ä´É`Üª7–ëUø­ ‰¸œÍ#7÷“äË I|ZW%Còåër,À'ä*…“÷íjÑqˆÖÒ%.âÚ‰¢@\bŸ¢áä^ «2üÍ¦¯r–·=0¬Ş·T‰UŸøÜæH=ªOªİènjŠ"[hÅ† B88ĞÚiµÖGÛÚ;»ÚÚê£V²c?[)<œj2Y"uêjLB¡JQc°ï®!dµ&âƒƒèƒZÃÄÉd¬ÁáT)ÜÈ~›}n¦ôUØ|Z Åc'RQ”Éğqíeî÷•{v‚‡`‹å­sâ—(H’ËKkjB¡Á¶öhÄjÕC4‰ESÃ‰¸Mír6ëŒ°jµÊÚ¾Éá¶ÖP­ÁpóÓ.½N.ãñaKH
+M°S±[-Z-ÀäÍ:‡ÍG6RTMÇ>ŞD(Ùp<äòÔ˜˜\…Á,ĞmŠè%öÿPËÉÁÃôPs~7Öšq¨Ôóz°¸·ş‹xF¶"±L÷+$ä+‘{ùg/ù#ŞwØ8x§·švÄAŒwØ¢ĞGúZš™']_ ¹¥oWSK  ‡+hiÚ5ğ!HçGø|¼ïèôş@Só®]ÍÍ $œH¯šñ}SÀ¯×­ÿ2ËNÇášÎÆbxm—KW¸~®ƒ°1ü,pöj«é)ÁìF£’¶`DVv>˜?2ØŸˆ™Í6[SóÈhn¢«'†”‡»:S‘æÆËCÃH¡¢áHé
+oÁ{zO4Šî}Å©Ìà@ BŸ­±ÔÌı'¯¿¿DuÖÔd3_Íô÷Õ… <àUâøÀûSˆ½ï!¯Œí )Ø	9«Ã9|îIĞ´S£"×Lf¨±;.m2jtäæhÕéğ»h«Åd4üšÃÕhêê~«¿âDÉU*J†D«Y¥À9”J.Ç8;C|ÛÆ}A>ö0{Â®$?>\Ê|´4>Ä}®´ûñÒ0úÒãˆÙOç<‡¼©JñˆMA7^¥@FÙ­”‚¯ä]+ığcNµŸ$8?†¼X‚w¢?ÄùEùt'¦ï´EõÚ+^yÆn@*3HA¥””¿XLŠ
+²ß±õâGD­‹‹!TLV=ÓiÖc^N”^ã¦”ŸBo>‹/?(«Êà~ë‡2­Öëml@g>ëµÚŒ7›ZÛºşs0æÆNìİßÙ)ÍKÄ&Ëıge€¾ã¹¼yH P²W^İ±'¸ïÓŞz™Ó|ós|¾ˆ»õ¼k»½¶›÷?7ª¤(9÷]ÏäÆ—K0ù…‰hfŞêªRcåÔ‹ñåß ï€=šËÙÔ´×a¶˜…$#Ê¤š½;¤#R•Òœo¨ÊéˆŠÉ7ŒFµJŠÓ‘?éH6øüz+É‰x\ïG¹ß)Eù}Em9Æï&z ÄuJ®Ğ™Tå¿>ª3„cy÷>w)³NÄÕ`VèÍ}¼#É+y=%¿‚LÆºHW÷¨Ãn·p‘@(‘)”ØšÌ2
+yK¯sò2®Tªİ?y¬·7RWcD\¾0#ğ9<$‘š Kè8vùÖ{akèn=GÇœô3»˜İ“s‡Õp$nù!µÚå'º“±D]¤6èêt¹Ñ‡Fåv%â=ÉX<Õ’ç¦¦@­N¯PhÔø9W ¶¯Â;…R­Q(Áóç6Äü£¼"qñ8A¸åi½;ßşÂssØÓŠØÎ³ŒÏWë©ıV˜Ù~”½yÖ]…›§Yêm4¹_Ù‹Q-½}ûÚB!+lïê˜Nßß—HÔMj%3ÕĞÑ`ÀIkÔ(Ü»w~áî‹§×Õ'“ã÷ÿ9}P£RMK\şÜ™…¥±ñá¡dÒ'8zdv&âø±ıû{ºë#f“N5ì^ÿwm³˜FånohW[{8d¬±Ó×<®}û.¤ÕzÜñXëá£Gúñû˜b©ºôÈp]ÄT#[ÌÑKó¹ş>§ÅâÇÇï>ÿ¾ÏŞÿà‘£ÁXzLÊå«jkkŒÑhÿÀØØ©ü‹¹ÙcÇ†“	«iu^sóğîñ‰…å½½^ïƒ"Q1èDµ"ØÍÆ]]} F2ØÛ	£€d‘;¼ÉVU*R1T~±
+#»åó&µJˆÜ_(
+$h~s²Í¤RˆÑ^µœÕÈËÕªMÏ”×Jó¹®HZz?~¯R®¿e±8ì.—ÃnáüX­ ğ›––¦^§İfæüXqùF7wLN¤o~	ç×¹~ØY±çA®¡¬2€mìe{F&vù¥Ñı'íÂ œFH…fgzûbb‘îè€l¨©÷ÑááîŞO×ŸØªÅ¯ããÅ{gçwùüy==Gıœ‡¶ò o=ô0QÙ#ÃºL[«ºíù¥Î}ûr;“˜íéî û–õÎı1§ü†9àlqˆ˜ú}½c«ŞßùçNt±¼]döÛ¿‡×Ïy‡¶ãrèc‚KJ6©ÍvÎ„@(^ÿ2rëç¾œ¬]ÿ!‡Ï¹¦UkeëîÈÔjùOà\†yë$oaõ×¿w]}¾pÇw°ÉŸWB‘Réüõ/do?Àÿ«_Çä/LP-¿Äÿ¸²ó‚|â’0*˜‡~üÍJSş¿	±Ñ±>ÎPª¾F¸}Dˆ{¸Ê)œW‰QòŸˆZîâòçÄeR bè!®òmÄUŞ)‚Ãùc¢›û41ßfø„¯¾³äiâ*üÎÃwÊ­¼CÄ	Ü_P(ã‰ İ
+ß?'lÜ@]¡ä¾ts@ë(ÑÎ;H\%oçyhûkbœtGùOÁün¢	h^A¯2´üeâüæy?!áë /cî'ñú8g‰.î%b”{ÖÕ|%.sİ„]'Fo§ĞÄcèÇÄ'†ÜÜ ÑŠûpRÄ÷^è‡û>MÌ gˆó$IÜÃŸ'Np_!âè­/ã~äw‰:h?Ãÿ"1'ÜCX`f#³ÃA^ ËÏ¡(z
+½N*É^øì'ï%Ÿ%¿Á©çü!7Â=Áı>÷:/Ë{„÷)¾Š?Éšÿ×‡ ^Ğ+8!ø°àuağu‘Aä½Gôâvñ{Åß¿)IHş§ô™XÖ/» û’|\^¤„Ôaês
+‹b·bMñ¤âo?Qš•I•XõˆêoÕ!õ“ê/¨¿­‰kÕ|Së×ş‰ö_tQ=¥ÏèÿTÿ¿k†§ÿP¶	b„øCü{·ó¢Ñ…ÍúK›}ì„.±e’`ËÈõ?Ì–¹Ğç/Ù20¯°e>Ôÿ_¶,€(óolYH‡-‹
+µ±e1çy´›-KÏ–¥D=ÏÊ–eÄK¼}lYNÔğÕ°ÄÅÿ³£ã‡Ø2"t‚n¶LrÁQ¶Ì!fÙ2ú¼È–yD½à{l™Oè„¶, &…F¶,$"Â³lYDX…ŸfËbÁŠğ/Ù²„ˆ(Ù²”˜VäØ²]P¼Ì–åD\5Ê–„Põn¶¬$¤ª÷vç—Ï®äfçŠ´/ã§ë#ÑHşÄé©³tñì¾üBziš^=™.œ£{Îå²Óçrz-Wœ£G²…ìÊéì4İ—_*Ò{Ò‹YÚ1œ.æaz8—É. iui:»Bç²ôèà0½w9»TîÍvÒ‡²+…\~‰†£0FÓ»³Ó¹ÕÅ‘ììêBz¥>‰$›ñ¿5ãÆP¹±9Ú7‰‡âáLD«ÆVh–c–â¡H4MT‘`ºç
+tš.®¤§³‹é•“t~æ‡ïÔ°óv“l!ü­ä0ÉåìL:“¥gÒ‹¹…³ôt¶›]Ùä–Ê‚Y]\aÁÓx‚ì™b¤v›öÖÉáôJ!½šJcñ²´VŞ¦ _Yôb–A;Ê4˜$°‘+ÌùÃô`XÏe4¬8“^ÉÎ¬.Àê¦ÒÀ%,¶u.ça)Å\7dòK3¹L1·4K/¯äò+¹"n¢sEº0—_]˜¦Ùì"}j5W; ¡.–êRÑA¯ÍÚWe–¦òÓ`XÀ$=µZ¤×˜‘Ó¹ÂòBúlyR <›[J/`ÅäŠ…í£Á$fİBî\¶¦€x2éB!—şË+ùåüJ4_Ò0w1—Á&k?+ä¦²‰®./gW2il~³¹ÓY¦n![,fWfò+‹…²¢réz.½²˜_:[VËBvK&Lw™lğÅÜ"PÁË,,d³'·´¾ÏŸ¤Ó'A¾ÙÓ¹i3ÒÅ²­¯¥ÛìAdñBó«³sX¼Óy ²”/Ò3ù……ü¬´±º²ÂĞ„¿ÓeA²‹¹ĞJ~•±él1[(0&½É]¡Ì.3sšÉf°2¡ËğYœ‚¨seqŠ+yhƒŸÕLqu%‹…‹Ù >‹é)N±,Ìl~µ°”-€:b|Yv“ÇlÎ®dÓE(oš76»üilÙ±H¤–]8»<W —±v‹g²Œ.»P¨µ@Gq7X|n‰µ~°ÔÙÕôlÔ€¦n€±0Ñ­4Ì¾–]XÀ¿ı+XKxåƒû:éå¹üRÌÖ>W,.7ÕÕ­­­«/3®ÎäëîT_ñ¼B]Ùõ&*®W÷6<¾3úî4ÿ÷µ›2+¹åb!\È-„ó+³u{û†ı›Â¸M#ÑMä‰eâ,±BäˆYb(4á#2¶ÒD=„Û(|Cl)uSĞ—†^g‰}0rHKÄ4Ô«ÄI¸+çà®şæˆ,´àßÔ¬ÁoèÓ@d¡Wf<Íô ‰> ´ÄÌ¼(,B-M8€bêòP
+3ô1,ô+°£V™™1š¡ŒGƒĞ“&öO¸o5íí‚Psˆ]€ú<Ó7
+3EÙÙÊsÓÄnf¶Ì¶È¬|J˜ëI¤!’D3+a(UF†¶lº ¿8” 8´Ç™ñåPj„Ïíçİ¹Îê™éMİ„˜ß|wXÅõP£áKn~±®NB]˜ùOè8ü[x§Ö·¯¶ÀP.[Ons•X×3Ğ’al`†±¡¬[ê4cmØ¶—X»É12Ü²,™EÖ*Oor%Î@ß,kk¿ÙøØ¦ŸfdŠW½º˜bx-SÙ¾®•ßÀƒ|Û|‚fæ,K{Kõ:›«,kËo<[ö ãEF~YflYÆf¥XØ¾Ë²Ãë-ë²,Ùô,{ç2”ÊR)ôæˆc¡3Ìœ¦m	8ÄıWë]aP <s³Ê"CwÚğ¼ÓÌ]–±Fš8u9fÌaÙR1¿ËìZñì[æXo_İ”o™ÿ) ;Í"VY“¸n•ù]«šsš‘Ñ2ÃíÙmœæYdÄô0ŸÁë*üÚ¹Ë(1ËjëúÃ7ÖÂÖz2L¯ÓšaécYå	¯0²Ê3<™–4[—ÙD¡²ÜO3ëÏoİí6º
+#—™udXÄÔ0O§™öJ?<¶ÈHjtˆç_dxÜò¨3'ıÓL+^ÛÙmŞ²À`dÅf0¯¬ÅÍ±6TAxÌÇ"»–Š4Ìø,ƒBo÷õ˜/Ï´a¬:ÉÚo–á~šµ‡­™ÊˆP©I³1 ‚)kŒ$îŒ$²3d7%Š­f–‰deë†šòJ–¯ Ù-0«]ceSöUàd¥j+,®T[D±ı Å
+3ÓîL3ÚI3z(T¡ôÛuWØ¦İ-ÓÌÚ²Œ–*Y¦²ÆêS²VcmiKsEfMåqå»UFÂ«'Ë­h£ÀöJƒU–m§¸ÍV*šÍ3³ÄŒ(°µ¥XUöÜ¡İ-”¯hs–Y	æ·\ÿvô® ]‘N³cL4­eÆ/0ñd¡¶¼é»xå¬=—t‰Õnõ®²·âQÑMjeÉcIoÇş2¦âL"ÍàCÙ»ì¨n6[`QôÆÒ,ïkŒ^6ïûY”}©"óAˆgsŒ&³,š”å>ÇXĞ2 s|Ö˜O˜°[Q=ÌHozü¶ıwÆ¼ÔUG½‰·E½ºß ?şNòSßoÍŸøï”Õ¾ÃŒÃR]fì6ÌŒX€ß<µê`¶> î¿eüf#+œVg ñÿ¤p
+endstream
+endobj
+17 0 obj
+<<
+/Length 931
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <0051> [<0046> <0061> <0063> <0074> <0075> <0072> <0020> <0049> <004E> <0056> <002F> <0032> <0030> <0033> <0034> <0039> <005B> <0036> <0037> <005D> <0043> <00C1> <004D> <0041> <0052> <004C> <0054> <0045> <0058> <0050> <004F> <0053> <004B> <002D> <0042> <0047> <0028> <006D> <0029> <0031> <002C> <20AC> <0025> <0035> <0055> <0044> <0059> <0038> <0048> <0073> <006F> <0064> <0065> <006E> <0076> <00ED> <0069> <006C> <002E> <00B4> <0067> <00E8> <00BA> <0070> <00F1> <002B> <0027> <003A> <0051> <005A> <006A> <00E9> <0066> <007E> <0040> <0057> <0062> <0068> <00E1> <007A> <00FA> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+18 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Lato-Bold
+/Encoding /Identity-H
+/DescendantFonts [ 19 0 R ]
+/ToUnicode 22 0 R
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /Lato-Bold
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 20 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 543 755 530 436 478 370 252 563 570 559 656 503 369 563 614 570 737 235 813 294 831 559 241 524 255 571 561 559 356 524 802 764 689 462 575 575 575 575 575 247 563 595 544 575 575 575 575 0 ] ]
+>>
+endobj
+20 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QNBAAA+Lato-Bold
+/Flags 4
+/FontBBox [ -603 -285 1344 1099.5 ]
+/ItalicAngle 0
+/Ascent 805
+/Descent -195
+/CapHeight 805
+/StemV 97
+/FontFile2 21 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length1 13416
+/Filter /FlateDecode
+/Length 7849
+>>
+stream
+xœÕzypã×}ß{8‰û¾¯.‚ qƒ ^à}í.÷¢È½—  ’Ğ‚ —âZ›¬e­,¯Ô•ëdF[Û•¹–ÄÓTŠ+;ê¤r«nìv&©“ZNšCn;#G>¢¤Ş]‚ı¾‡HÚ•­NûGñ~ïø¾ïñùï#„ÚĞMÄEèøépì
+ş©z…ÏâJi{ùÒäoê¡ıBvíj!›/LO!t¡ä*tÈìm_†çxö¬®ÕûÖ-%/Àóï•Ê¹ì¾ş{_Cˆ±ÂóÒZö±”DŸ„ç›ğÌ¬g×
+K·nŞ‚æ¿DHóˆÇ;Ïù]ÄGˆÿ_‹66¾¹_Cá¿oãrm‡Çåpÿ
+qvO wvŠˆ°RÛ>qú®`¦~Rø;øKÂŸ#c<ÿd7$A<ÔÏ	ş›(æÑytvM¦’©˜AOŞ:pÿ-tûÚSÉ½w»¯İíj¹]>M7Û­o¬4ö†ÚÉ;*§JŞë™YJ§;:t:,Sèô&‹Ş¨Vóõ¿©H¥:­ÅdÔ«¯É¤ÖÈrò”D¬Q›M«É¤ÑHÄ‹%Édu˜ÌjXR'¾÷£Ü_ºÿïùÓ5:—'ëOwøívA­QkôKµv‹Å Óht:‹Éã1è…mB‘PhßÑ[Í­DÍV‡‘¥[¼§ï¦øoŞı%~?â —Àßm©`kYA*Vl~{C\Òkh„ÿÍT*›»}ûåÿÈé~ùöí\6•ª¿ÎşÁù…Rı¿a¦´0?ØïtpşöÅ§Ÿ^Ê%“ü7q2µ´ôôÓ/^Ï.z<÷~èq,-"à`t÷G<>¯¥ĞpÀn«N|MâìÆñ˜¡ik…k@1œ“å•ÓŸŸ›ëïw»¤2×Î¦À o÷ÄcƒÁ Ói2Êé®x2ÕÛÛ—Z¿ty|ÂçÇØí¾tññr&£ÄßÇ2¹ÕÒÕÅëÂ¦ğÌÙ«½>ÕÛïõi4
+™Z¥.Äœ.N(ÂÏÔÄ£ÅÛW._šœğw¼’¬F]NF«QPl÷]î(H–…‡}ĞÖ	úoíA¹|T^v0¥o™èfÛ
+OÁÍ©K$R¥V«³Ø\È‘ÎNlĞy=¡P$z=¶Z‰ã³Ë©x"õ‰•
+£ ci÷ö§N'ëîö`8…=½c³9=2½T:w¦Ÿ;«´a±X&®LÜe0*Õr¹R¥Õ;œÁ`æXf86Y°H¬R¶E•X„e2…R&ÇX*V+z³ÇhT©är•Â s;c‘‰áŞŞ@—ÅJìmíşˆû5ĞÖèAm5]Ò =†ÔÀĞê²Üu©XªÕªÿnw÷H,¦TaµÚéŠ„ûÛ=£Vc´©¦:£ÑD"Õ“ZšŸö¶c§sxèòå›gÏLrû`b‰T¡JŒÆ`phèäÜğhWĞ`P(Ôj…·â`b¼Pøh-—›šòw`ìmŸ ¸ "Á4®¢æ44ìÚŒ$Mé„ª¿Ú®Rğå±±Ñ‹SA_$Q*ìk§Ói6kuJPéÙº”LbÇëaŸ/•éŒ³sg›øĞlöş»áİĞR¹U¸©­E3ü±:vb©\¯·Ù]N›M¯“ÁK§·Ùœ.»M¯—Ky–{oÃ®1—Õ¦ÓKÁˆr©^g³ºœtr)U®ÓÙíd÷õ—yc ¥|iˆœ††·œÔJ*XEìxÔ7şyD©Ëœ:UŸšHÄ­V ™³·ïôÜÊ¹ÁèßOõDºâÑpˆaÔ*¹Âjõùê/ó+8¸4z<ccùÜG· wÍø;±Å©Ÿâ½îtÔı	Ê] 82záüpÆïÓ¨AK€5ŞÿÏÁ.Ô0ê´j­é`šXƒOb-xns‰ıÜt”3[[\÷x½ñ±ÅÅÚÖåÅñ1 n÷/^Şzb(“zâ©Ì0ÆÃ™§ğÒV¥±>ÿO:­BŒ·}|2WxüF¾01éõaìóNNò7/ä&ÇÛ½÷?qæÌ—¾töìÙs/¿|æ,¿½şNØö3³\†Ytñ”à1N]6“5ã†€Àrøıª«£#L<26ì2vsÃ½é8Ø9xÚa5kIÒ°Ú»Ó3;9Îgİ6{|§öšİ}—MRmZ•Ô
+­ÖÙê½ºÃŞoŞgõêÒ¹'ŸüêKO>yñb4ÉÅìS·~ıó7nœ½ l*•JÖdvAxéÍŸ:İ×çtz\ƒ}§O^î	}^Ó-’JñE¬¼VîïÇ8ZÎ=ûÌK_¼}»ïIaÜ|ä¦¼M$jƒ0¤ÉD"{tl1ûøìÒÈˆÇ-Èe:-#ğ†c}>îEGr	|‡~SÎ&ö}Igë*/uB°³¸F+1tx}¡pÏÔ	~½Áá˜ºşØ«ÁĞÜ ÄbÆh¶[ÔjiğUŒÎOOÇbëšÙt:Y™	†4ZìëˆG<‹F-©•^O"1Ù×—‡vş`1“Ëi]!Óœü‚İL9rfgõ³ØfMÿ¶€T$V›sÌj#˜qï¾Ëy—TI|0`BE$€ H‹¤¸Ê©sª´-f¢!$ÁßûÄôÌ\şr‚ùïcØTÿïFS§^¥”Š%"‘T MOL+ñì±§9Gd2KÁ‚Z©×_}eçb«€¼xó„â„FĞøÄîy2şOõÆïÓ÷ì¦Š«¼„'›?[1Å­Æe:§ÇÛÑŠ¤&§â	‹c†éï;µz&3İ©ëf{RÑ®X¼·/&ñC¡°Xü>.xH5%‘¸!~ò­ò33ØjqºîÊ_s:ûñw»õ:Œuú®ÀèèùCÃ>¿Zİ¨›xu“ùHÄİ/˜š™Üík*±áÜnüoë?Äõ«k¥É	·‹ÔSWÖ>ùíoíéi÷hÕj­Ç“Nı6G´óP1¹<™……•µ3ç‡†İïj4nO,éF\.ÊaàışğìC­¦ eŸÚıÿhjJoJ #í!RQ°‘7çgÇ‡F=ÆšÎÀì‰«•;Ÿ¼Z9~¢³ÃŒ@ “ù‹9›çnİÿÄ­òÕ“'CÁ`èäÉ«å[Ğs{~l,±XÂÏìşßÁí$ç6CS3é1pF*Ñi!§16‹^'…—No±1ñ´:‰ô‡İªÓÈ¥R¹Fgµ;œV«V'…K§µÂQ‡ñ‡‚ÿÏ`Ÿ!t­£;ºåAÚof]áC¢b³ÀKaÂlÓä‚ñ![Îá:w3Ìrˆ&ğ8÷°ÅfFd‚!³™Tt¡`fàÈôĞ`8h6½Å2Îlµ3f³F+–JÅZÙÌØ­fF&Æœ¯È4*çk÷^‘«Õ–ßåÍà3Vk8œ›…Lf³)œ™Ébæo`RoY,;D)-9mh5‹İa±h!ğ–æFÇCQáÁÎ-ŒG#fÆ&s$:>¾Ğç÷™ŒxM>_¯·CoK0–ˆúo/Î(¤²»Ub	ÿ…{_Ÿ‹D ØÄS$26:7?1[-K8661ßïë Zô d4uøúÓ>ŸÑ(’HDF£ÏïÅ¯>áDì×Å¯ÕßÁZx¦9U0^Õ(§Ò(ÔÚ¦ÑŞ­jµæát«´Úín§ßÎ1ÆvO ‹ÆÆFC!£ïà®àœÏå4™eŠzgàdTå$ÏÚáğ¦Ş“É³İí^£‚¨ÅOL¹DRr>“Éf¯/BŠ‘ˆÅº¿Kp_Ù}—'àYH5€U7İû¡u—*¼ƒsC}éøÎ§ã2•Ëå†º Ô=?2é˜gÙÉg»ü9ÿëŞÛ8<çlØc»5™˜™:Ëù »XıÏÀ¢9T#·	49á„-l9hƒ«í•î‡;2kk%ÑÒÆíûVˆ7«GÜt–àFÜÑ¾¾ãä%±@ –dÏ‘#ı=1l³EÃƒÃCƒÑ°İŠ]äèwy{ëÌ™Ş>«-Ø5ë7šq[›Ji1»OÃØáèé9voc¯ƒé„"ñX¤Ó˜Ã‹ŒOtÇÜN…²ş×!Ë¨—	…/^
+…¡8–/U»ùRH¬²ZíÎÙL&0%v£P O\@*7ƒƒ™‰wÛƒÁçÇ“Sñ¨Cçq÷Ì&£Ñ WuMM-’µA£şŞKöv©XÀçr8\ÉÁøm£šœ´ˆ³™MgÊtƒqøfƒ¡Pp¶İÁèR9d‹DÅyäZ'q±ıƒã¢æçŒ¯|:İêdlV–„H­ÎjcœV»Â(şÀÑ
+«œ{dI#7–Xµz–ô4æR¿å?•ÀT*NöÃ;²³ÎìÜå|êş9ş›ß«ş¤~ñ-˜Ö²BÔ²¢1¿kçOëïÙÓoí¼Ôô}*õ}ÕC+é™éü¡šÿ“¯öz<©;¡Äü/ü¿F~B™B>ßç1CóFÊ×Œ$:Âç·«ÕŸ±Xâ±é©S>GĞgQ•2èqÍRV×ÿ‘{A.„³ĞÊì¹©ÉxÔjÂš_V´‰xÌ£:ÄºŞ‰Wî¿Hô òó"ôpB£Riôl@kT~Ø-úÏV­Zø-…"·TªşP­6³~ùmzôÔì|;‰„Bğ‡ÓÀùãŞÛ¤j>¶û#Nnzj[·(ñÀuÒCÎ2¹´tûÙ/BŸË%á•Ëİ¾ıÅ|nîÔèp8h2Ö Ãş…ùµÒÂBÿ ãt2ƒı¥µù…şzçtûÙürº§'½œöö‹Ÿöör!&I&2:>7·´´Fï ¼—œ®__\s{š÷Q1ü[€Û~UeÀ´Z‰ÓbÙ‡ÙĞj©T"‹$\—Ëùé?Psÿ.—ƒñO¡~Ã¿M,»ÏxÜ.÷É»)‰ØÌı¯N†±Ü¯Rlî¾;}š`.u5Ü´	fm"ù¾Û ‡#
+*V±R¡ÂçÛL÷_î|égü7Õ*ëıí`w"Nt¹7h5øn
+øïÛı÷—ÅRáÓB¢A,¨noï(qæ•ngp6øwI½+6&ÀŠäÊâÇébr¼L&Ú›¬µ^F5o0~}ì gqy~n ßå‚ìÛ‘Lö×ÿu4àÇ!+ßoÃR±ÿût h·)A&‹Íç‹}ív›NGeü)E°ktxşşŸÛ©ÔììåSã“ƒÃ½ıõ/ËDBl4xÿÙœÉf1ào¤ñnğ£¾„ßg³ (eR£ÁÎxÂ
+•ÈøèÉÉ$©9(•òUzÚÏ| JYÉùİ\£ñ®vvNOçóUr×3Óá÷wÌLårµj>?=İÙY¿G*Œî8)ã|>¼|>é©x7©@8ûÆç.^$•ëÅ‹Ïİyãçî\ºÃ.İyî-fÌ&“y S|ô…ŠÅLÆHÊ%c&S,"zCö.oäXjAfÓN­)W°w‡¸ïx©Ø~¤â%Z:Ü´áÊòéS}½Œ+U6GW ukdwtOœ¿°|õÔéÁ®.{9àóªÕcïìèŠDœ•K%ÏèèÆ…Á¯G!Ã½}Ù·Ü‰ÔV[ì–"Ğ5:B¬±2Ş=>yb2‘ìğC}Ñ9?ÿDyn>İg³AÎL-†TB‘Óãv›m
+5º:;º.‡C¥~E¥´[;;bÅdòAfç 6@õÿ? 52€¾â:êà¶Ã=s»SØÉ}õëİŒkç9¨€yÎ¿{÷-Q=ßà„>¥S(êÏã¢Ri¼É}¹>5vzçAÓĞí+„ĞĞ%ªj¹‚L´Z[o`kúCN£´TëŸWªòøÀàèìôL:íqãvPãÅ‹W+çÎgà¼(–êu»¯ş[j·;ğ?8UÚå
+…S½¡ãT«àœ¶5 pª”œA½V§u*ÕØlI&N¿’[XòyáÄ94|îü£ãƒé4¾n5)U<ñ@8âdÔJ¬Ñ8İ@ï##ÃZËân‚„7 –pÙ[Å;üŸÜ•C¹õ¯ƒ¦¥÷óåƒîüÈ›âïİıµœŒoìdfæÏÏL%âV{éwºëèpº¬V“T P˜pÿt2íŠG{Ó‘°ªJ§!İş«¿ íòâµ›Åâô‘N,«•f#3i‘H¸ËÍÛ?.Ø51ıÙcÄ‡àTÈû
+Ä\![¨œ	ŞWê#õwê#ü7ÿæ™÷ƒ¿Yağ4Ø˜½¹oÆ
+wó^çĞí}ÓÊ¾}ÏÛ×-UrsOS#÷5™L®Õ›ŒP¦·3`³Ë¤ÒFhÚØì¤N½”İË¥R]'Å*¥Úl·ù;“©c›ÃCØn‹D‡û#Q«c'30pşÜækÇy_×‰ÅJ¥V­R°›nj“F«3Øì]Á¡‘ó@¹ıÆr¹ÙäñTˆÄ:¹zÆéT±×ë1›ÔJ=u¡ĞÄxáä±£ı}Pìtø‰ §@§ş·*K§ª;EUÑŞğ2Rqı¸ªU©*©TpÿşÂâûü:w1ÚóÛ
+.ÇiŠ×ñÍ»?yh]Şİå]jäDL“ı- ‘ÃœôªŠwI,ï|Gí`_åô«µjãÎ€I©æ¿¹³Ùu÷nxàŒÉ+¹ìV‹Ziú2áï,X34ûÑßíäîv°\ì¿º¸„>“»ër¬?šÈ®;30`w@8œ>’_¾6É${‚Ï¬±Ãd5yœáğÈx"év«Õ“O_YûìG8ßã_Lº\õoéÈµÎÀ©¹K[‹Kc“Æ
+¹ÑÈØ=W\f5Z¥
+cƒŞßÑÓ3òØø(ö9ßâ gï«Ãh
+­B^o½"k‰:{î§md„½_•š±¾ıà!)®:œ\Î9U»¸8J/††‡>QJ&±Û580ÿÈÊòü#ƒn'Nö<úq Ÿ·}tüÒåÊ`8ìd”JŒGÇ®mc¬R:‘pf ³Ól‚#-†,şÎTº£Ól“Ğß…Ì¦ÎN¥X'ç8><}êÚÜ¸»İNî1§§æ®:œ?ÿDîøÉ‡ıÔjÆìêŞÎÀk»»+è`ÔjÎoh5ŒÓïú}^»U/«İëƒG¿“Ñhùı>F#ÿ·.+úß#?†~í¾W¿#†h†‘`¯Ö4~k– ]x†)¥ÖW„·ˆºzôoqŸD1î÷Ğ8ç>ºÁiCK¼gĞŞ¯¡qŞÇĞştœ§@1Î]äæİF“¼¿‡50Æÿ1úş:#¸ƒs.£—ÿÖ|U1„X^æ+ĞïÓ0÷ãğ:œ¿@Ğ/l¡c‚NôÿÎî{Ü¯¡>Ş¯£YøÄá3Ÿ6ø<‚wĞMØëï‘ƒ—Caè{
+>—ás>'XG†Çñ[œ	ÎuÎk\5w“ûe…÷ïOøq~ÿ† 	º…j¡Cø¸ğUá«mÏ´ıH(²‰fDÏˆ~GÌˆßÿšD$Y“ò¤é¤¯È2—ì5Ù_ÊEòGb…¸¡GAÏ‘_ıÙ§Ã/;^ßëfoF<xj´9Ğ~msQú¶Íƒ“Í×Ù6™Ğï³môŸma÷°í6dÄz¶-B
+bÛbîkx€mK‘÷l[Šb|9Û–¡oğ‡Ø¶™\àóÈÉR/°±mŒÚ„q¶5ˆ°msÑ	á(Ûæ!µğWØ6Å„/±mô—mÑ¢ğ²í6i›fÛ"doÛfÛba¥íy¶-A¥ˆmKQ^™fÛ2ü”ò3l[ºÕîÑòÆv¥¸²Zc:r~&‰F‚ğ§›YÚfjÛ'Ê¥ìz9ºy%[½ÎŒ]/ò×‹9f«X[eNª…ÊµB™(¯×˜ÙìZqÍÖÊ®s´˜+¬Wahs=_¨0µÕszú(s|£°Ş˜ÍN0ó…JµX^g¢¡(,ƒÕ#åR>ÇÊTù>Ò$}}ÑtwwßÜ©î`w(“‘tš2d°I¥±ÑŒÄ‚±ÔŞr:µXe²L­’ÍÖ²•+Lyù¡†6pøql5òTŠ„äFa9›+0ËÙµbi›ÉªÅ•uĞEq½¡ˆÍµ5Ğ	Q4C6(<V+€–0'6XÈVªÙ­àR–¨“¥UyŸA:šgÖ
+ÀãjĞp’ F±ºê1Ó5½X¨2Àq.[),o–€»¥,H	ÌVË`¾2°R+fÉ@®¼¾\*æjÅõf£R,WŠ5XÜËkLuµ¼YÊ3ÕBa¹ºY¬İA©ëÕ º^s1[«`æÍjC¤¥r€B2K›5f‹®Ì«¥ìvcS ¼R\Ï–ˆaŠµêÁÕ¥leÄ­¯ª!fÔ“+e«ÕbæoTÊåJì^0°w­˜Û„ùÀûµbµ¸T*45º¹±Q¨ä²n+ÅkÚW*Ôj…Êr¹²Vmª˜­0«ÙÊZy}»a–Ra…h&Ä×èŠ*x­¸T›ÕR¡peßê¥rù
+³–½ú-\+æAt 4²5Šmf+[=€‚ ,(FË›+«D½ù2Y/×˜år©TŞnÀ›•
+¥	óETkÅ`¥¼I±“/Ô²ÅR•BzOºjC\ºs–Y.JÄ˜0eä¬­@ÕÅRCÕZ¥cğµ™«mV
+D¹D³–]íÔZ!Â–7«ë…*˜cš
+§á"ÀŠK!OÄ\©²5hïÁ›À®| ;‰t1+¥íÕ*³A¬[Û.(@×AÜ*˜ÌZe¢d0_\gÑH]ÙÌ®ÀÜ	…°Uˆe`÷­B©D¾'+ÄJ„óéÃÌÆjy½ 0ŞWkµŞpxkk\}ƒºz(W^?¬¿éyÕpÃõ.7]/ü¾øıùñ³ãaÛøÿß„Ö½«¹Jq£VU‹¥P¹²>>qÔ¿§Œ¢QTFhUP­@©YC$ÛòÃwÒh>A¶Õ}K0—YÛPN”Q	Lë(=GÑ&ºOUtÆào`„|ç g¾k@ŸA§ ¿
+Ÿ
+ºFg0h(­ÓgÂô2È³ĞW†VˆÒ't
+0¯Ê®Ú¤;:¥LVFÓ0“AÇA&2·•öA
+è™§««Ğ_¦s£°S”İ­±÷•1ò‡@”B}¬ìG¡ÕœÜ›×ëÓ §nhÍ¤İ0ÖM×6(' •†ws%³·ò0/­;2{úÂwŒÚ#õ€İ÷©OD3ø&zZƒï
+ØˆËÿ6}è?oôıÜV)å:Š{\[.ÃHÚx™b¤\$æ)šv×Y\©şö±	³×Xœ4ÍìIP@ÁÜ‹¥_l}|Ï¨N	×[`‡%*kƒÊA¾*¿€‡tÀ<C÷lhƒxC+®=.Ö ú[%È¦X¯QıèÚ†s”S¢ÇMXÑĞá·aË†f«0³á}Ğjh¥t²{+rËtÏ[	Éü
+En…zycç^ÊeÒ]…±MŠQ†jˆ ‘AW¡¯H÷!6Jäİ`y%»»hìXe½ysO¿ù—€nHK’¾Mú½Õ²gêhƒJ»}@Ò2ù="gÓc_ÕÜ»D¹\a­Kl}ÊM¬0Ç¢'GgUéh¥OtU¦®P]•©Ì:’eûr”sòÔĞû5Êd+Qº1º	+7(9„‘éoÎ#kkTS°!ÙÊ¸ïQEº'ó³t”ğ¶}À[•=ÌY‡YÄ­²jFp"ÇËKS›Uº¾@£Ğû}½û•é‰UWXü¨ôyû;5"B³'ËÆøfLÙ¢šxx|hF‚ »CaO£5+4S5Ğ›‡'ëÔ+ª»åv‹ÕMÃ76A’JŸ6®´"¢J±_„hQ¡;íÇ<µN–Ú¡Ú¥ßo»êëîËœ¥¼¨•šÙ ²ÅÚ“P°¨.²XÚ·\òÔX×xÚ¤Ş¤’4‘Û´F••T6°S;€•¦eËÔsÖéŠ*£ö-o©.‡¬»å›Ö\¡œyıïŞÍhW¦ÚiÄì8Í¤]t}‰æ“UJmcÏw	ç%ÏºÎZ·ÊzWÃ[Éªèµ†æ‰¦ÆşFL]•YŞ`W²ÕV‰¢?o-ÃÊ¾EíZÚ{¤ºhøRSçÓ†©d«Ô’6š4ô¾J´‘9ï-ú±v?«‡¨öÖ`Æ‡8çU¡¯5ë]~_ÖÿõgôÿJıÙñ¡¥ñ£ÿŸªÖ÷KX…uD«·!º¢ßešµÂ°ÛP÷? ¿ØJ„ş7‹óWó
+endstream
+endobj
+22 0 obj
+<<
+/Length 693
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <002F> [<0044> <0065> <0073> <0063> <0072> <0069> <0070> <00F3> <006E> <0043> <0061> <0074> <0064> <0050> <006F> <0055> <002E> <0025> <0049> <006D> <0075> <0020> <0067> <003A> <0045> <0046> <0068> <0066> <0076> <004F> <004E> <0056> <002F> <0032> <0030> <0033> <0034> <0039> <006C> <0062> <0054> <0053> <0031> <0037> <0035> <0038> <200B> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+23 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /FontAwesome
+/Encoding /Identity-H
+/DescendantFonts [ 24 0 R ]
+/ToUnicode 27 0 R
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /FontAwesome
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/FontDescriptor 25 0 R
+/CIDToGIDMap /Identity
+/W [ 0 [ 496 567 779 ] ]
+>>
+endobj
+25 0 obj
+<<
+/Type /FontDescriptor
+/FontName /QIBAAA+FontAwesome
+/Flags 4
+/FontBBox [ -0.55804 -142.85714 1286.27232 857.14286 ]
+/ItalicAngle 0
+/Ascent 857.14286
+/Descent -142.85714
+/CapHeight 857.14286
+/StemV 0
+/FontFile2 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length1 2056
+/Filter /FlateDecode
+/Length 1202
+>>
+stream
+xœ•UKLGşgÇ^?‰˜5T^?êll$$œRZ»,¢J…^cÛkvˆ‘"YjU-‡$=ô’DU¥J•àXõÖC¥ªzçĞC¯­¥Ê!RıwMªtF»óıßÌÿœm  `‡P€Â­LîÓÜæ82[ø,.×Û•Õì…ßÿÀqUY*Ë¾?ør#U$ÜÓO èÛ(Çªıî¹]´tew]Y’àP7¼4¤»-àaåE”Å¦Ôÿòó”QÇr(_#ÀŠxË2„'î¬œ@>ƒÿ­¶ªÁ8ˆ/Ğü>Ê<i¼ØQâÌØ:ü.fkˆG|ê‹øŒ=èPèXw_~Ãï¾Œ#ûMË#~
+º` ù“‰$oãƒ|PÊ‘€ 0E’$.å‚í›+µ7çJ„”æ6Ûä×øŞb` –JÅâŞ½…ÄöÎó¿¶·i–¼[š#„Œß+ş½•zz„Õ‹÷ïloï ÙÇÁO¡o=£#c&ytöš9š1'Fqj2İÀ^0²`:gx~Š8İî>m¥&ïÅ|ştÚÙšøøéí‹Iê÷ñ6§‹Z	¹<~)4”{í”[ü~?õyí6BÂÑxRŒğV+írq¥Uå	è¶;<Ww$Üˆôz|Ş¾ 5§’Á‚’™pv(tiü2!VêrÚxŸŸ&/Ş~úøá|Ë™Nû}±Xÿy±¶¢õ¹İNBí…`2†¬Á>¯ÏÓõ‡#İ.ÇaïpO”Õçê¢V+“ñh˜›İë£ ¸SûaOàóÃÏã«+/Œæ?;°üM¬ÿ.ãH¬·œCäß;Õ]Æ €åîM™rö>1OQhu¦#G/IñXd˜€¾e˜Ãnı‰a
+>xÆ°\ä-†­à'ÓóÈo0lƒ¸$Ãvps_0ì '÷=Ã.èáşdøôÓ<z!J™L@€sxê;†)Dá†- a+Ä0¯Ì#¿À°¾&3l‡^®Í°ÜW»àîG†ÏÁJá~-hƒ
+5X†*èø=O€ë #º¨	eÜ!ƒ…H#ÎC§xBK3%WWC»Œ'áš‚¿ µåª.NHë²xCj–Ûbn0;’óõºhni¢*k²º.—Qaãi¢½<l˜Öhà
+“JSÏoÈšÒ@a™eXÃ$ô3òòZ]RİÜ„Y˜Fí«0†Ò,r×aŠˆgP‚ÉÂÍÙéüÕ±ÂìäõùbaföÍ<–Ì¬4ÌÖ8+Â0æ6ŠÏà‰º@IVµšÒ‡Ó£éA3É73^ÄDdLE3Kn±bºQO1ßUsçUWeè,!:¬‚«zB§ÂüŒŠ>ÊÈ6Ì²­ '!«›öî`9­4q5¤%3f¼•b]–4ï©"«¢®ˆzU¯V“—t#ñŠ¢š;ÌNÔUüOkHêŠ(éºZ»³fi*zmIÖØE«fdÿªª‹GÅyU/Âq/Yë2†Ÿxæ(_é”Í´™Tu½5–ÉáIöÓ5åÿXÈàMT¥iV>ó›™:&ÙÔdÜ‡ µµaÎ
+endstream
+endobj
+27 0 obj
+<<
+/Length 378
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0000> <0000> <0000>
+<0001> <0002> [<F041> <F095> ]
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+28 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 533
+/Height 102
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/SMask 29 0 R
+/Filter /FlateDecode
+/Length 2130
+>>
+stream
+xœíİËRÛHÆq-	º8ÌÔT*¯À–bÀÈ†MRÅğ<¼—YPØjY•™©¬òN	F²Õ_KèöÿU/rKJªÔœ>}N{^ÿ¤aœúqÛw è“,˜šp–³¶o Ğ'&˜¥áã¸hû^  ıñÏ¹#@â…wÜö ºîËÇ“ôWè±IÈ `MÆ<|1}äÈ?$A  åVáåöÜñs´}k €î2AñÜ‘‡$+ÿ²í» tQ^”…ù0!5  €mß¼s¼ÊzlÍ d@  /™ÇóôÁ&^ À³åd^°áªxÌÛ¾Y @W¤¥óW#˜-ıiÛ÷ hß:œW;rèd@ `ì2ï*İ—1/‡ìÂ€Q+/ôØ€0} Àx¥ï§U6\•$A˜A `¤Ä‰ãçôqç]·ı €·–DsÇãU„ 02yà e=¶¦ãŸµı( €·£ì¶*d@ `,îæu‚{¶`ÍÌ„:t …ÊıIª¶ Ğ8Õ<wl9t ´ïŞ‰{Æ¼(‡gŞUÛ hJjÙŞÊ& !‡ ÃdŞí?Ê) 9$ €j*î  €áJıÆ–­p–Em?(  6™w¥·F´›Aâm?,  .‰Mß•ø  0_çÂfİM?«@™Aòïúæ·ıĞ  Wb¡G´©ÔêÓéÄ }—JÆÜñíÃ·gÁ•2ûñêKX ĞW›sÌíÃÆ+ÿòùCŒO  ã²Ö¬2æ¿ÈÂ»Ñrè&¢/ ôñÏ„®ìyÔğº{U¢Õª36ñ@ïhıIÖ~ñ¢“Øí$b	 ú$	/´x¡ì³C)‡Ælâ€¾Ğ²&Œ“ğtÇÇŠµ‡äĞ 'Ä½RûÔöqåyG  ]·ô§B¢bŒ õ]$ €îSú“„³dRõ/LùÈBz¹@w­¥>‡VÑÁıÁ\ÚL'^ è¨[5ô°=¦<•6ñ& de³nMm/tç]km¿|<iâÁ 2µ·¡˜Ô6R'Ş” tŒö2Ïş²[¶zqE-GÄ ]±ğn„—y8½É—“¹tÓ tˆ}vG´¢ŸN'^ èŠ…w¬HërÑoŞ¹–pa/ tÇZ8X0ˆ³À) Ñ6ñ²„ ¢¼É;Šh½Ü—>×òÈ  wI4µ^¿
+g«ğrÿG—Ë‚©Ôà—FX Ğ!Ú~Z×‹*ÓGœMœÖÍ  ‚ï^qwr5}‰Û&ŞÿşT
+Ş	@ à%GŸò9báİş­²ŸÖ¹¥¡ñí/ê<m ¬<f«MP\@!Æ%§œWôCêdb‚Ù­ËU •¥‡ñc¹wşº.Û¿$ßy×.7–ùS¡İPE ÍÛş!¿dñ'ó®¤’p×¥$eÚrk½ ¨bkRÈ_×Æ?+üÊ$²Ÿ>‚8	O]n/9ú¤¬›‘C€&İıñ÷ëü‚)¤6&®ˆ0}äQÏrÂ 4¥di(ÿÃâƒüVş¥m2Â½Šğ‡4mÑÆ ²31]€(¹l×7ùz¢¹–l$ ¸Ø=”PÿLHg¯aiKXlâ€zí-Ê3åuZ#wÇ*ÂûHêåÎ Ô§b`Ùá›S9„c}÷M¼Jõbş°× <ªøc|şeï¸ø„¥¤ .û´Šn7KXœf íÈ'…ê±Ãº¤€BÛåCOB% I&” €+»u§`–}*şû¥$Ä÷Ñ¹ãıäSªÀôî-Í¯ñÎ"ôÏ„§Hœ3/ 0ZËŸmSŞ»—›Vá¥mdóõ‘k.[ª=¡/ ˆ„WîŞW½t¡k  öot| `„ÒğÂú•[¡]•ZáZ¾–2 ey @ûRñ8ÿ!¿Ê'¯ñ5‰ÕI×%  ©pjFT5@XxÇZºãC™wç¶Ï•Ç_™óÖ/ ‰/Ol3¶]Ö…éÉ½ŠP»®{æ FÂ¾R;}KI©s9F>)3—O'^ Ø#„2mecmf!Ìşu®WÎ@óÀçÆñº 0löY	}mG[ÂrF!êq? ,µíÄ_õ…ûƒ¹}Yb©–áºq6©´¯ ÆfÓVİvcRàZ.uÄ­a3m+‡°À ÙJ^C-FÅ“D¶F"e[~§Ì•›ëR /(ë95•Ô	õà5UÚÏ\TÀKÖ…õı¾ğn„†Të †Í´Â!ì&b	 ¬Ã¹mÜqç]×y‘İ¤;O6¬n^Z_7œUìÍ Ã–¿µ´cói›‡¬yXç1›ßnÆ‹_?üöõ¨÷,Â,ºØÜR'ş¯±Îßü‡Ï#ÿ‚lr% ,a€§_td<¼ÿJ8àÃêºîÕ‹ Ğkéû©rFwFy Ğì´H `ÜÚÿ;å¤8‡ú±VTRe<D7®›‡ §¤îO]eØèG §;ïZ:õ¯‹c]2ƒ$á©’¯~İÊGœ À`fîHwnÁJš½tÕ`zŸ15ÊªÅ>ªˆ%, #Ò\N¹­‘Sß½“’‡UÚjU¿î=§Ùmîxå@£×¥/€1XxÇCÊz¼;ªıF/¯‚Ë7ş€7Öãó
+cG Ğp:€!»?˜ÛvÖíÛ(=Ğøg†];v@ß/c^ğß€4;}”æî ×’f×ÿ;4’hZø/pç]7ºvG `¶š«»ŒÍÛò©a{M£î7ù„§ NÂÓ·ü?€7ğ?e©N
+endstream
+endobj
+29 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 533
+/Height 102
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Filter /FlateDecode
+/Length 4819
+>>
+stream
+xœí]y|ÅMb ÈCä¢€Ç“ˆğ ˆ(Šˆ‚â…‚Š€"h]¼ğ6¢ Š‚Ê¡è*r‰"…1 ‡ØÀÈ’¤ŞÎlfvªºwİÙÌşŞo¾?rôt×ÖtÛGuWµ D§Ï¢°ƒÿKœå_n·
+âË rìÖÁA|¡/ lO¶[ñ„ZH£íVÃA<a²È	ğn·â­Ë$RÀL»q?ø2È	(ï`·&â9 c…İª8ˆ¤ìRH}ìVÆA| 7Ä	(p–¥hyBE
+c·:â‹Ôœ€’vëãÀ~\oØ­ÛQóOBŠŠóìVÉİ˜»Ur`3Z”2¤€¾v+åÀ^Ìg9;kØ­•;Ñ‹Ã	€±v«åÀFÔØÁ%ÅÑ†v+æÀ>Œãrà-»s`Îø7)*/°[5va^N ü`·jlB°œ èg·rlÁ)¿kbWM»Õs`Æhp`¼İê9°Mi’âX#»tPı˜«É	€÷ìVĞAµ£›' òB»UtPÍHÚ¢G
+øÑe·’ª£ÙI¹Ùn%T+¥8Ú‡aEaŠİj:¨NÌfº…áÂ[LÚcv«é q9Óşk„ôÃ4Ñ×ÄnET’6Ñæ?)ú>ÀPå}»5uPmxiı)brâ¯Lz'»UuPMhXBÛ~Gp§ã2†«c´,í½ş×ëıíá$e/áNui3tæ·ù…c.•wö°7=ÖÈ»ò³?"“±ÅóÆ°sÌÕÂ,¦í¯ûä–(j;,R?”Å/©e¼TJ­‘V©’6øÌ8<H^ƒI…–É› ¿rM »˜)'?jÄ¬T‹b°,m˜’¿ªáb1 EIá‡G%/eÚ	ıFåe²–#“ğO¯m°"Ø™ÃÁúÊCÖ¦5Ñ’ÚW£YZ~~c£å¬'EÓ_¢­v@¤hµÕJy#,öG[c5Á®1†&ıFşÛÔ’ú!³ @Á™ZNŠ&Ô9."xy­öX*ï+¤<ËHM48BË-S?f÷Éf[Qÿ!d25·×`øËIñµjÄ„Ÿ­•—§Ÿ× 6™Ë¿CK•¶BÏ?aÄv±¢dtø‡ÕûÈÅ†ŠZM
+Ö‚<²<ê©­<kH7è×DgföòÎÀğ^ká²´ãAŞ¥½Œ”µšÔ‹ö¯ÏÜ‘`˜,o:‘·{~tòú<Á‡vñO‹‰¯éVÛÅıJ»—ñL›İjAÑ™±á7²!k5)ÜH…9QÁßìï²m:y”³)ò™n‰ûhsT\D³°^c{L4ÑYñ*jÜ§_:–¤(í½<D
+Ë) ùx-ÔËÎîy½ÈfêÍ4ÙÖ(Û{¸W ÿ&è%)>¶@Z?›]ìŞ4CŠ×isñ¬‹h®ÒæVhšãÇ,HûÓS¯»%)ö[pLY­ß]Ñ‹‹wš Eâ!ÚÜÜƒü-³ÜG(Úq¢|  Ôú}H^¢¶€˜Î)ö:ş‚Z¿Áè› …0Š¶v!×ç'—fƒK¢ÖóV4Z—®‘HÄëãÏµMêV“âüŠGçº¡Aô¸€ÓÃªõ›š1LndqñR$k"³ "…ÙÔù)Ú©ôP$®¤[0Õõ4JşNs#ÄjR\G_Òv½Û—pØ"»‚n#ê£ÅnSòn *xÓyÙú2ªŞš#‘°ƒ•"»É/Z×XMŠ¤h­Üÿ<H/¤HtĞ¤¼•T‡—¹Ù–ÒlŸ8ÆuyšjüqFx!–›¹»pâ}™ÃõeJV“¢yV$¸néægéWÄETk^¶³ü4ßSQÔş$© ÛÕ»#ãÅva¥X¿KÚ•Ù2U€b«Ia‘<#7û|Hñ-^Si¶ã‘V½ë9$ˆÙ+¿ m‡d¬i2bp¢Åò¨ëü®~QÀbR”j´9¥êwóã´Øe¼ìuş¦Ù"µï¸f"1ëNcrd¢Áıh·0‚bròªÛQe)Sl8ñIŠ!/_o…l˜B‹­ã®,ú3â¹äÑE"~·!“ù%Ê
+ï^4¸—]Ï—RB£ÁlbK˜ÄÓ/
+XJŠJÍÁã%ÅÈVç -ÙŸWÀõ=ÍösBU„İ„nÀ†5*øÇrcD
+	ušgÄ…÷-Â}­2üªõ»?55Í¨D‚<y¢¨‡ÖKŸW{åõÃ½´è.®1ïœršo°ùÊNÆ&s•Ñò°œà!¬X’Âê#[¨GN¶Ú¢5)vÔÜÉt‰ÛWıÃ:œ?Ì-4ƒfÛkô¨‚Z_!îĞ@5”
+Ç˜ÂÒâ†b¿‚GNŒ+R”®Ÿ–­Ó³ó“ç¡L˜]o}^¡zÌ83ÅäkÕúŸz¢Ã	€7Ù8"E?•*9Q­ßİ|ˆZŞ+a­âãªÊ×ÄÄ-ô‡úºû¤Êœe´	fp‹İA³hiê­ê­E¥=ÑåÀ<æŞª8"Åz¤øÀ‚1ø¾­WàŠ[lpK»êÊåóŞètoÁr­aZÊÌK¥¯S­zb€ Ëé€7¤pWÏ‡<r2êî'D2+Ç0ú¾®ÛñGßíf	Ê”qœò&|Ê-Ø‘YÃ_nüNÏWô«®14Ä‰ÀR9TWw¯zx5>¢†Çs€Ÿ®5Ò4Z0ş%H'Óõîñ	-.eSCC&2Ş¥Ü’Ì¡œ†¿ ÍP”NŸÚ"U75ÎWoïA~3$QıæEy#W–7 ¢âKé™%`Ü³äÁá¯#ú€q¼÷Õë»mG]>Mï¥Ê¥Ì~Œ¶ö®+9¾gÔ³·Ú¤?ÔY¿„„fÈÇjW¦ú™EÆ¡²<·~^#P¼mù×d˜†‡÷¾ºÃeÍ\l€ûSÓBÖ7V%¦ ¯¤ˆ›¸…™ƒ¾ûëè©'»üümü¶ìÓV©P÷ƒÌ˜,&ÅVyÿ@p­ÒÏm YÉ9T{²>KëÚRî¢HuÙÉ½¥6aÍ7M_½ÀLq¢ S¿„|F¯De[ÇûjÃZR¨İòšşe…D,ÎìÄÚu7Şô-ödTû“(§¼.t1 \+"ë¢^ÖŠ›¡š“©ğ½Ò«•wGPÃXJŠßÚ¨Uof…ã G–f~µÕğ#,ê›pßÆop¾bù°Ğ¨2GÒ¸å™‘|¾®nØåg÷l—\O©‹ûW¤f˜Ş‘ÂBR”>CæsÉÂz¶†‡WóF—à½v"YÇÇÂËÕ®’Ÿ0WÊq\@^Ø›lÅ.G%¾56	A@v .':`ƒËH±íQ!¸îèÍQŠõÈ¢"²ËÔš†mP›9ªN¥Êo”G­é~±Ÿ€	“°Q{YÚi¯W…ùœïwH-C1…vÉ[¿1j(çBÆD.cÍW/Ü‘Nùæƒ¦±:rÙoËrrU‰&<7Ï]†Äm`×‹ô U©ªá_¤­Í·`±ûgVöØ†¶´7§zÈ!øŞ]i¶ÆC9ˆ?ĞCÙ›‹9ã´Š¿†a.x®Z”wP÷
+<ëHfüËoäŠiê#Ùüfâ
+µ¨1å%’ñùù“kÁb¯/µÀ‹É=˜Lš²ˆYş@[{WPò4_¸×âg–‘–Ìa²\Hû0{ _³×³9Ú}aöàKÒ¼2ĞÖÎ—ÅXºî©êb„ÒŒ^^Ó3¨kŸ¿µÑ’æ;˜[íÄ)»H3ò£J=MrÁ'|q4”¼CİÄO’FsM\ı´µùA-ùÛpó9ˆcĞş¾¬}˜Œ÷PR„±`ÑÑÅNy±f–.cb>mí0!Z™Ú¾ÄhHàßÃoVö¤½ƒoÁjMW¸ùfnpq`;jÒÈ=e^ï!ñÊ˜M7n\íñx–/\¸pxvøe·›92BsaŸ¢¿Qg1BJûŒwi¾¡ÚJÔãş©ÖÒ’w5 ç*Mhû™Â!y¹É†YÅùø–®*4
+m›õÀËp>³€™(˜F{+x‰BW·{Ê(Æ]2ÅÍ‹Çğg¯¦“ÛÀıhCÜîç&æÄ««ÓÔGû×e³'÷yméÊÏÆ³—o¤¹İÏ¿,ï{ÉÕ€ª-Ó"˜Ÿï–‡ùS_|”Š­=ğå+?bEµˆ2˜Óó² %ÚùÜìë‡ãS&­âº%~ê£õ6{½ÇÄNÍ‹BaäÁQé¬1ş¼eAG,!•·-ÓÜÏ	€;ØˆğB(ñØÌØ‚Ãêèv½WÑÜ}‹ dÕ’-P9·y’~/À¿¢ÄqÁ•(Öz6|\÷Øî*«ò]Lè©¡ÅğÏ÷Ë
+Àÿ²*Rc4‰2Ùgôl&ÂI­{g&+/‘k8ÏÛWÂ“ljË´<Èà	}„ºwØ‹'K\RÌ?{“AR¤
+‰mÆ3†Şğ:Õì½ÇG¢¹M†×‹ó¯f/Uì%½Nä	I—m&4øÆBšBH!¼
+UNw¿–ã“Ñ‰³à§nbÚöCØ¦Ü,½WÊÜĞ'kâKNÍÈøW….X'8çG?ªÜ}˜m`Šâé1¼5Ç#Eãã…œó§†I@úêĞ<K_§›Hì±;à;y'²§¿¿r†tÛ¥ìıú¤hË¥ß]¨½ñiøP®î»ÄKˆ%°aøÍCöèª¯?®'§j‚pºÅ±Ò_ùØèf™åó†¨cËUÁ$)FC_”Ê#…²aF*S¤Ò‹}x®¬¥SxVX»ø@hÎ0œtõAR4aŠé“BX’[ø,èŠ’[ù7…–/Ê.}ŒK`øQ–ÊŞ4‡°5ì²ô,Xäİ'MûÂ{p?ó<:&ïİÇ¬”¹¤8Wr4Å“J©\K Oõ8¤H/]#ÜÂT¦H!LT_´¦­“ğÜ¦N¼M}2iÿ^T$HŠ;™* Ei«!ıÄ&œü¸ú¨Tı“Á–Œv–„<µMŞ®o¸·ÃOH\8<íØû±›—/„GØ.)‚È@©#aôƒ¾¦‚9¤˜
+9BÒ.f¤2GŠKaª!&ô¼}6lETŸjßÇ9€¦7°è²ëf”ífœ"±ğpàK7îÁÉ‹A½üYW&ıšg'`‡<,1æmŒÃ|"q6Ò)Õ[”$ğÌN8º>~®„z%´§á’"w¤¼Ô“;ï™HÊ³¤Hómq	Â0f¤2GŠö0Ó¨Ne³±ç{ Şx~ĞT3C,Q:‡3b€Â8¸CHØy„8$­¬TïS,qÒÃN¨º€oµóÑ#~2Ö—ÕrŸYXz¬¨$æ«fşßÄHpïµ`˜˜SLö1ŒdIñŒ|P{©Ì‘âZÒ"át•Õšä¦ ¹ğR@:zŠ•À,ac¤¨b½Ğ›YÍE$,(	üHş]»£X«Æ œ7¹†ÿ§ÀxçÛ–ğ6ô»p²æR¼³òÉö›™‰æ-°„¯R¤zåO"#•9RÌÿÓ‰Mìï„şi\öz˜S4ùç0'j”R:¡‹WR®!JÄ;Aœä‹KæŒmÄP¦Ğ:! –pjGœ‚¿*ˆdxØ¿VOã™Tãã[‚aUçÃµ¸œ©ÕÇkÌü‘!ÅxxVú }d¤2EŠÿÂ&L?¤HØP¡˜¸\H×(N4¯¬ØÀÚá‘âøºr1M¬ó÷Q%XUÍuâIöÉˆqB~í†:N³½9ÕX{‰—A¤û@ì(„¦¤­¦ÉuÓ¶’ØµL‘¢ÆÏpN¥¤¨],/…¢‹H0CŠş¥ÇHÀ ¤Î/=Rµ¡\ó}X„{Fiõ11tÙ¼C¤V«ãšŠÂ¬à_iK¥wÖÌ2ƒ˜#ÊXí|ÛxÍ³A
+Ü0ÖJÿîÛ§~˜îÛ)me.)úKÁñÔ -Ñ^’>¬DÇÊ(Ç#Õ`éö–…pMÏ~“6ÂnºO¢¡‹®`aN“Ó:<TŸY¡DŠ„eìŞ¢1R€íœÓ/ı|ş·º7Jï8©f$
+Bw9²8ÕØ©ç½½DêoÓ}A&jSìäP%\‚oÕÖZ’f£Ô`äÀft	!EÊ>¯âÖ0TÁk¶4woDRˆØ:–ñĞÒ‰ECw°ÏgÂíé{üôšhc¤HŞ7‚IàÌ÷ƒî¢+¥™ÜW…a°Çáç‘+åaâ`á¸äŸWµ-Ò/ø«i–ÚNĞ&+´87q=%‹Ù¦/CÁ–†Ó³¤M»,´®IÌB“¶S³B3ñ´,´E&Éd÷DZ²´ã]£©5ºv3çLtr–´mœ•A´eNÊÕÎâÜˆ8†³%+eîyÏı}«ö=şk 
+
+endstream
+endobj
+30 0 obj
+[ 31 0 R ]
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 244.8 179.6 343.2 190 ]
+/Border [ 0 0 0 ]
+/A <<
+/Type /Action
+/S /URI
+/URI (https\072\057\057info\100alseresport\056com)
+>>
+>>
+endobj
+32 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 33 0 R
+/Resources 34 0 R
+/Annots 35 0 R
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+33 0 obj
+<<
+/Filter /FlateDecode
+/Length 1822
+>>
+stream
+xœí[Koã6¾ëWğ\ 
+‡/‘@Q Nâ¢= ‡¢‡"Ûm±h¶u÷Ğ¿_J¤l‰òGK´¼› äÉÃyq8ºşşñ7öÇ'v}ûø{ÿo+^[Xû{5üBpÖ[K×ş°ç—jÇvÕCõà?wUxşñö'õìGÿ÷ıò«ÿò]|¨}à¥2NÖ]Âßş5¼µ$je¬h„ÿ§·íÃV?Ã>¶£µ°”!©©w|5hêa€¶«z.P÷ûéùcuø³|$â¤™5g–dÿş^½oç¾*àÜğØîæ©ºŞF†=½ga «ğïé¥òÀ®ˆ¤¿~Ç¾åœî¿cO*WÅĞİ‚Š”‘ÂkHá¦£èÚ*Ùh>¤4EÕ~R¶¶Q.¶1ÜÉ…‹ÒÔ.4 ½ÙZ —ÂÆuÇ	J(*öÖp'ÌGÖV'ó‘7‘Ò¸dÜ†ËÈƒé*ôØ”–ÉLá|0ÌëLo¡©æy<¸‹¨åd ¯3½AHÓ÷–bË¬\G±TáŞ°ÄgŒ“á–*,‰’Ñ`,‰«òºææ±·ÎèğyÜ)°;X³2	[XŞ·‰æpê)¶°Jõ(Ñ¬ˆíşiäNj€RBŒ”ŒÃ52™m;Š÷™2q"°‚¨¦ {
+EVLDHˆ8a‘!!·Q‚àq0ECŠY°ù`¡™,¸¬f÷•Iõâ?òƒÿj”é˜¼GkÎï ¥„o¶7Á:Íâ8H]^îÃJ¹Uç-GS¯Ö}£Lè¸¹@÷½¥‹¢÷İ¿Eô^ü¸¶VHİ^[#¥¹ó×“3^£ÔùsSÌí²ƒ‡™ûÁ¿Î¼l‹|@k¹’$¡•¿Ş}å§2B;çùÓï…ƒæÃ-ıæO‡=Á`“¬¥ë¼pjä¹Ím¤=iêÚMœãmO™D§"º^dËM¤ ÈÙ»&#ÆãçƒQ`Û»Íé8%½Áù”¬õŞ4@€Øöû>>¡à5Å".ı ú$œê¤¼½nUÀúU{İ™¯
+‰¾~~†¾-4Ù6Vô-ræXèÃ-Ûˆ~o9	”3ãoâæ°6¯ÇÑ¦×ÏÃÆyè‰,‡y¯Sé#‹(™ ¯‹…”ÍkædãÔ˜“[4â2	{;W&ßš&.ÆÜtuLÍ²¤Øún¢-§4W(š·k}ÜÄ+¡<c©Å’N0a³š¤OvCá›‹ãÚƒt}.L„xqRJ%Æ‘Gh~Æ'g¿xÎ§»3‡«-à¼È¼¤éy¢‚Li5’rÈ@E¶Ó™•d:3›ÜÛ¦ 
+)8?‹3ª)@€ƒŒóR2JòÍ˜R"x¦ĞãŞ¶Ã¬ä¬J…]ô§K:Pu›­àj”t˜aêù´úaØÛ¨bHUD8ájéY/UW‘Ü›Í­XiJgUMŒ1´´%äÿæçƒV™Çn*)ÅwFÄÑ”ŠÁ"ó.—çÑRFÛËÛæíçó»şá…cwŸmáQ0à0v%m¯o½U©ŠZETÏ÷ÑøÌ'ú¿5‹™e2—nd6z{{˜F#˜m'õªF	ôğ8[†£ºG0±”˜o0¾ãÔÇ]“xn·3›j8ê}\ÌjMz[ãÌg¬Í^á”aV6‹2Äåa­¸ÜÈ“|¦>ÒšÊtòhhHLg´
+#À¶ @ß°Êh"Ä&71Ê˜Ä®˜×r˜ô¹˜8Øæ¤ñ[·'ÃX\¥‚·.Írl™Íl“ÉOá-Ìdò˜o0¸•aS«ùõ8™,¤übGD's.á|ÈºlÙëÄ|IÉHqAe¦B¦4NÊ÷¥×Vê·Í¿Eö.n~åUÜ®Ê+)
+Rô…%EïÏp‰Ïe`pYR¸„eµ$/‹­u‘W(É@ßNÓ
+ëg¥*¼­¢h{yIŞÉ§$È]+ŞìrÉmx|f*â\Èç¤ âØ-¡M=}~qSì²K,Üºpb3!u·tWÔÇª8†,ñÊ¢6™*ùï±n¡%>KÅ5Ø’a{•±~¸Ô§Añ7¤d
+ao
+âh¼µ„GN™½DÁ›6ó[úR«¶Ò­=àL,HJ›£|°³¬úS5ÌL*A‰J©M¿0“Ò¤’W+ğ+Cë¾úRª½:†_&‚Y‡L(kö?·ĞüˆX×.¨`ÈÔóßğR}Qıò#Õcîa4u!%#dX01êM˜˜_Eùªœ_V9k-=µ×¡^Z´E1ª/“N*qN??£gÙ y¯cİ^íõ>øƒy^µ…‡ß~)ğagWR¼:F+¥¦Œî _!d-@Æ	Ol¦^÷Ê›_™éŞşü=kÖ‰?°‡êÃ)Û¦
+endstream
+endobj
+34 0 obj
+<<
+/ColorSpace <<
+/PCSp 11 0 R
+/CSp /DeviceRGB
+/CSpg /DeviceGray
+>>
+/ExtGState <<
+/GSa 12 0 R
+>>
+/Pattern <<
+>>
+/Font <<
+/F6 13 0 R
+/F7 18 0 R
+>>
+/XObject <<
+/Im12 28 0 R
+>>
+>>
+endobj
+35 0 obj
+[ 36 0 R ]
+endobj
+36 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 244.8 179.6 343.2 190 ]
+/Border [ 0 0 0 ]
+/A <<
+/Type /Action
+/S /URI
+/URI (https\072\057\057info\100alseresport\056com)
+>>
+>>
+endobj
+37 0 obj
+<<
+/Type /Outlines
+/First 38 0 R
+/Last 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Title (Factura\040INV\0572023\0570049)
+/Parent 37 0 R
+/Dest /__WKANCHOR_2
+/Count 0
+>>
+endobj
+39 0 obj
+<<
+/__WKANCHOR_2 40 0 R
+>>
+endobj
+40 0 obj
+[ 0 /XYZ 29.6 571.6 0 ]
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000010 00000 n 
+0000000063 00000 n 
+0000000117 00000 n 
+0000032494 00000 n 
+0000032631 00000 n 
+0000032656 00000 n 
+0000032841 00000 n 
+0000032947 00000 n 
+0000033069 00000 n 
+0000037407 00000 n 
+0000037611 00000 n 
+0000037651 00000 n 
+0000037744 00000 n 
+0000037885 00000 n 
+0000038427 00000 n 
+0000038630 00000 n 
+0000049647 00000 n 
+0000050630 00000 n 
+0000050769 00000 n 
+0000051170 00000 n 
+0000051371 00000 n 
+0000059309 00000 n 
+0000060054 00000 n 
+0000060195 00000 n 
+0000060420 00000 n 
+0000060659 00000 n 
+0000061949 00000 n 
+0000062379 00000 n 
+0000064694 00000 n 
+0000069685 00000 n 
+0000069712 00000 n 
+0000069894 00000 n 
+0000070018 00000 n 
+0000071914 00000 n 
+0000072107 00000 n 
+0000072134 00000 n 
+0000072316 00000 n 
+0000072381 00000 n 
+0000072487 00000 n 
+0000072530 00000 n 
+trailer
+<<
+/Size 41
+/Root 6 0 R
+/Info 2 0 R
+>>
+startxref
+72570
+%%EOF
